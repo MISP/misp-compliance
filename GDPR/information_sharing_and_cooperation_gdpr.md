@@ -5,15 +5,15 @@
 
 The General Data Protection Regulation (GDPR) aims to reduce legal uncertainty and limit the interpretations by setting out clear rules and conditions for the processing and sharing of personal data as well as the protection of natural persons with regard to the processing of personal data. Organisations must ensure that, they process only the minimum amount of personal data necessary to achieve their lawful processing purposes. To this end, the GDPR distinguishes the roles and obligations of data processors and data controllers, provides precise definitions of personal data and establishes the conditions under which information can be shared.
 
-National and governmental Computer Security Incident Response Team (n/g CSIRTs) are teams that serve the government of a country by helping with Critical Information Infrastructure Protection (CIIP). They coordinate incident management with the relevant stakeholders at national level, and cooperate with the national and governmental teams in other countries. 
+National and governmental Computer Security Incident Response Team (n/g CSIRTs) are teams that serve the government of a country by helping with Critical Information Infrastructure Protection (CIIP). They coordinate incident management with the relevant stakeholders at national level, and cooperate with the national and governmental teams in other countries.
 
-The Malware Information Sharing and Threat Sharing Platform (MISP) is a software for sharing, storing and correlating indicators of compromise of targeted attacks, cybersecurity threats and financial fraud indicators, among which SHA1 hashes (a cryptographic function to fingerprint files), threat actor names and Bitcoin addresses.
+The [Malware Information Sharing and Threat Intelligence Sharing Platform (MISP)](https://www.misp-project.org/) is a software for sharing, storing and correlating indicators of compromise of targeted attacks, cybersecurity threats and financial fraud indicators, among which SHA1 hashes (a cryptographic function to fingerprint files), threat actor names and Bitcoin addresses.
 
 Information sharing communities are enabled using tools like MISP. As a Computer Security Incident Response Team for the private sector communes and non-governmental entities in Luxembourg, CIRCL  created and operates several communities to automate information sharing at national, European and international levels.
 
 ## Who is the Controller and Processor when sharing information through MISP?
 
-The GDPR clarifies the differences in the roles and responsibilities of data controllers and data processors. According to Art. 4(7), the **data controller** “determines the **purposes** and **means** of the processing of personal data”, either alone or in partnership with other data controllers (“joint controllers”). 
+The GDPR clarifies the differences in the roles and responsibilities of data controllers and data processors. According to Art. 4(7), the **data controller** “determines the **purposes** and **means** of the processing of personal data”, either alone or in partnership with other data controllers (“joint controllers”).
 
 The concept of data controller and data processor in a sharing environment is not always trivial, but can be summarized in the below diagram.
 
