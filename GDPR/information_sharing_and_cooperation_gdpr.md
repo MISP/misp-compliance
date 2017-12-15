@@ -116,7 +116,7 @@ The GDPR provides a new data protection framework that will allow information sh
 6. [Article 29 Working Party, Opinion 1/2008 on data protection issues related to search engines.](http://ec.europa.eu/justice/data-protection/article-29/documentation/opinion-recommendation/files/2008/wp148_en.pdf)
 7. [ECJ, Patrick Beyer case](https://curia.europa.eu/jcms/upload/docs/application/pdf/2016-10/cp160112en.pdf)
 8. [Mandate for the "security made in Létzebuerg” (SMILE) gie.](https://www.circl.lu/assets/files/letter-circl-2015.pdf)
-9. Cynthia Wagner, Alexandre Dulaunoy, Görard Wagner, and Andras Iklody. Misp: The design and implementation of a collaborative threat intelligence sharing platform. In *Proceedings of the 2016 ACM on Workshop on Information Sharing and Collaborative Security,* page 49-56. ACM, 2016.
+9. Cynthia Wagner, Alexandre Dulaunoy, Gérard Wagener, and Andras Iklody. Misp: The design and implementation of a collaborative threat intelligence sharing platform. In *Proceedings of the 2016 ACM on Workshop on Information Sharing and Collaborative Security,* page 49-56. ACM, 2016.
 
 
 ## Contact
