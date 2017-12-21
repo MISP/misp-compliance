@@ -119,6 +119,12 @@ The GDPR provides a new data protection framework that will allow information sh
 9. Cynthia Wagner, Alexandre Dulaunoy, Gérard Wagener, and Andras Iklody. Misp: The design and implementation of a collaborative threat intelligence sharing platform. In *Proceedings of the 2016 ACM on Workshop on Information Sharing and Collaborative Security,* page 49-56. ACM, 2016.
 
 
+## Acknowledgment
+
+This document was partially funded by CEF (Connecting Europe Facility) funding under CEF-TC-2016-3 - Cyber Security ***Improving MISP as building blocks for next-generation information sharing***.
+
+![](https://www.misp-project.org/assets/images/en_cef.png)
+
 ## Contact
 
 If you have any question or suggestion about this topic, feel free to [contact us](https://www.circl.lu/contact/).
