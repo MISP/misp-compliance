@@ -136,9 +136,9 @@ This document was partially funded by CEF (Connecting Europe Facility) funding u
 
 ![](https://www.misp-project.org/assets/images/en_cef.png)
 
-## Contact
+## Contact and Collaboration
 
-If you have any question or suggestion about this topic, feel free to [contact us](https://www.circl.lu/contact/).
+If you have any question or suggestion about this topic, feel free to [contact us](https://www.circl.lu/contact/). This document is a collaborative effort where external [contributors can propose changes and improvement](https://github.com/MISP/misp-compliance/tree/master/GDPR) the document.
 
 
 
