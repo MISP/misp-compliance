@@ -9,7 +9,7 @@ National and governmental Computer Security Incident Response Team (n/g CSIRTs) 
 
 The [Malware Information Sharing and Threat Intelligence Sharing Platform (MISP)](https://www.misp-project.org/) is a software for sharing, storing and correlating indicators of compromise of targeted attacks, cybersecurity threats and financial fraud indicators, among which SHA1 hashes (a cryptographic function to fingerprint files), threat actor names and Bitcoin addresses. The MISP data model is composed of "events", which usually represent threats or incidents, which in turn are composed of a list of "attributes" (e.g. IP addresses, domain names etc..). Other data models exist in MISP such as "objects", which allow advanced combinations of attributes and "galaxies" which enable a deeper analysis and categorisation of events.
 
-Information sharing communities are enabled using tools like MISP. As a Computer Security Incident Response Team for the private sector communes and non-governmental entities in Luxembourg, CIRCL  created and operates several communities to automate information sharing at national, European and international levels.
+Information sharing communities are enabled using tools like MISP. As a Computer Security Incident Response Team for the private sector communes and non-governmental entities in Luxembourg, [CIRCL](https://www.circl.lu/) created and operates several communities to automate information sharing at national, European and international levels.
 
 ## Who is the Controller and Processor when sharing information through MISP?
 
@@ -139,12 +139,3 @@ This document was partially funded by CEF (Connecting Europe Facility) funding u
 ## Contact and Collaboration
 
 If you have any question or suggestion about this topic, feel free to [contact us](https://www.circl.lu/contact/). This document is a collaborative effort where external [contributors can propose changes and improvement](https://github.com/MISP/misp-compliance/tree/master/GDPR) the document.
-
-
-
-
-
-
-
-
-
