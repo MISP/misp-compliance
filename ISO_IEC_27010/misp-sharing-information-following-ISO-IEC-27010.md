@@ -193,8 +193,8 @@ MISP is a tool, a piece of software, not an Information Security and Management 
   </tr>
 <tr>
     <td>13.2.3 Electronic messaging</td>
-    <td>No</td> 
-    <td>N/A</td>
+    <td>Yes</td>
+    <td><a href="#synch">Alternative methods to electronic messaging are part of the MISP synchronisation protocol (e.g. air-gap exchange protocol)</a></td>
   </tr>
 <tr>
     <td>15.1.2 Addressing security within supplier agreements</td>
