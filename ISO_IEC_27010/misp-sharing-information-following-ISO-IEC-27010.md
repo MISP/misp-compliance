@@ -29,7 +29,7 @@ MISP is a free and open source platform for sharing, storing and correlating cyb
 MISP is a tool specifically made to be used by information sharing communities, even when only some members of an organisation are permitted to access the information shared in MISP. As a tool, MISP includes data model objects such as "organisation" and "user" (of an organisation). The figure below highlights the mechanism to share event with MISP amongst organisation in the same community.
 
 <p align="center">
-<img src="./images/misp-compliance-iso-concepts.svg" alt="image" style="width: 70%;"/></br>
+<img src="./images/misp-compliance-iso-concepts.svg" alt="image" style="width: 70%;"/><br/>
 
 <span><i>FIGURE 1: Illustration of MISP organisations and community interactions</i></span>
 </p>
@@ -269,6 +269,7 @@ MISP has asset management tools build into it. For example, taxonomies can be us
 	  <li>In some cases, the value of threat intelligence depends on the quality of the classification. A wide range of classifications is available for an event in MISP, for example, <a href="https://www.misp-project.org/taxonomies.html#_circl">incident classification or topic taxonomies</a>.</li>
 	  <li>Value of the information can also be determined by the <a href="https://www.misp-project.org/taxonomies.html#_cssa"> CSSA agreed sharing taxonomy</a>, for example, the 'sharing-class' indicates whether the shared information has been validated by a human prior to sharing.</li>
 	</ul>
+    </td>
   </tr>
   <tr>
     <td><b>Credibility</b> (8.2.1) and (8.4.3)</td>
@@ -334,7 +335,6 @@ MISP has asset management tools build into it. For example, taxonomies can be us
 	</td>
   </tr>
 </table>
-
 
 MISP also includes a feature to protect the anonymity of the source and the recipient of the information in the community (controls 8.4.5 and 8.4.6). With the MISP [delegation](https://www.circl.lu/doc/misp/delegation/) feature, an organisation can ask another organisation in the same community to publish its own event in order to remain anonymous. In a MISP instance, it is normally possible to consult the list of all organisations in the community. However, the operator of the MISP instance (in other words, the supporting entity) has the possibility to hide this list (enabled by the option “MISP.showorg”) ensuring anonymity of all recipients (i.e. organisations) in a community.
 
