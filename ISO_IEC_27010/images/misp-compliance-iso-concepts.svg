@@ -1,0 +1,1534 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="178.82352mm"
+   height="148.49112mm"
+   viewBox="0 0 178.82352 148.49112"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="misp-compliance-iso-concepts.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5941"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5939"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5895"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5893"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path5541"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path5544"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <linearGradient
+       id="linearGradient8630"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop8628" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient8015"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop8013" />
+    </linearGradient>
+    <clipPath
+       id="clipEmfPath1"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3699"
+         d="M -0.16013821,27.383634 H 979.56543 V 739.83853 H -0.16013821 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+    <image
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAJElEQVQImWP8//8/Ay4AkUMjGbHqYGRkJFEHcXYwMqKwceoAAD/5Ps89SAgVAAAAAElFTkSuQmCC"
+       height="8"
+       width="8"
+       y="0"
+       x="0"
+       id="EMFimage0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       height="8"
+       width="8"
+       y="0"
+       x="0"
+       id="EMFimage0_ref">
+      <use
+         xlink:href="#EMFimage0"
+         id="EMFimage0_ign" />
+    </pattern>
+    <image
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAJUlEQVQImWP8//8/A1YAkcAkGTF1MDIy/v//nxQdxNkBNZcYOwCky0TJOmE5WgAAAABJRU5ErkJggg=="
+       height="8"
+       width="8"
+       y="0"
+       x="0"
+       id="EMFimage1" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       height="8"
+       width="8"
+       y="0"
+       x="0"
+       id="EMFimage1_ref">
+      <use
+         xlink:href="#EMFimage1"
+         id="EMFimage1_ign" />
+    </pattern>
+    <image
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAIklEQVQImWNgYGD4//8/JskIYWEHROlgZEQSoaIdyObC2QDPkUTJ8UU5iAAAAABJRU5ErkJggg=="
+       height="8"
+       width="8"
+       y="0"
+       x="0"
+       id="EMFimage2" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       height="8"
+       width="8"
+       y="0"
+       x="0"
+       id="EMFimage2_ref">
+      <use
+         xlink:href="#EMFimage2"
+         id="EMFimage2_ign" />
+    </pattern>
+    <image
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAIklEQVQImWP4//8/AwMDJskIobAAonQwMiJxqWgHnIVmBwA1EEHJV0aJBwAAAABJRU5ErkJggg=="
+       height="8"
+       width="8"
+       y="0"
+       x="0"
+       id="EMFimage3" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       height="8"
+       width="8"
+       y="0"
+       x="0"
+       id="EMFimage3_ref">
+      <use
+         xlink:href="#EMFimage3"
+         id="EMFimage3_ign" />
+    </pattern>
+    <image
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAIUlEQVQImWNgYGD4//8/JskIYWEHBHQwMmLopqkdjIyMAMCOQcwbJTi9AAAAAElFTkSuQmCC"
+       height="8"
+       width="8"
+       y="0"
+       x="0"
+       id="EMFimage4" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       height="8"
+       width="8"
+       y="0"
+       x="0"
+       id="EMFimage4_ref">
+      <use
+         xlink:href="#EMFimage4"
+         id="EMFimage4_ign" />
+    </pattern>
+    <image
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAIAAABLbSncAAAAIElEQVQImWP4//8/AwMDJskIobAAAjoYGTG00tQOCBsAaBBEyaMTEYoAAAAASUVORK5CYII="
+       height="8"
+       width="8"
+       y="0"
+       x="0"
+       id="EMFimage5" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       height="8"
+       width="8"
+       y="0"
+       x="0"
+       id="EMFimage5_ref">
+      <use
+         xlink:href="#EMFimage5"
+         id="EMFimage5_ign" />
+    </pattern>
+    <clipPath
+       id="clipPath312-7"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path314-0"
+         d="M 0,0 H 595.276 V 841.89 H 0 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath1086"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path1088"
+         d="M 0,0 H 595.276 V 841.89 H 0 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8630"
+       id="linearGradient8632"
+       x1="208.46664"
+       y1="329.8847"
+       x2="725.77966"
+       y2="329.8847"
+       gradientUnits="userSpaceOnUse" />
+    <clipPath
+       id="clipPath312-7-1"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path314-0-2"
+         d="M 0,0 H 595.276 V 841.89 H 0 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath1086-3"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path1088-3"
+         d="M 0,0 H 595.276 V 841.89 H 0 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath1-0-4"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path1811-9"
+         d="M 25.622114,-0.32027642 H 1071.4848 V 430.13123 H 25.622114 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipEmfPath1-0"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path1811"
+         d="M 25.622114,-0.32027642 H 1071.4848 V 430.13123 H 25.622114 Z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-1"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5541-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-1"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5544-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="469.41262"
+     inkscape:cy="352.4912"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="PA"
+     transform="translate(-28.174275,-35.997165)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="arrow"
+     transform="translate(-28.174275,-35.997165)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       d="M 98.345264,147.78682 H 131.41818"
+       id="path5539"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.24987282;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5895);marker-end:url(#marker5941)"
+       d="M 83.969299,96.528872 60.947788,122.14465"
+       id="path5885"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.20326015;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart-1);marker-end:url(#Arrow1Lend-1)"
+       d="M 146.68281,116.36218 H 161.865"
+       id="path5539-1"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:label="circl"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-28.174275,-35.997165)">
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332"
+       d="m 56.479826,151.56688 h 38.980308 v 32.92141 H 56.479826 Z"
+       id="path3725" />
+    <g
+       id="g6869">
+      <path
+         id="path3789"
+         d="m 28.174275,122.7951 v 10 h 20 v -10 z"
+         style="fill:#ffd42a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.22188391"
+         inkscape:connector-curvature="0" />
+      <text
+         id="text3795"
+         y="129.11784"
+         x="30.870844"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan3793"
+           y="129.11784"
+           x="30.870844"
+           sodipodi:role="line"><tspan
+             id="tspan3791"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+             dy="0"
+             dx="0">Org D</tspan></tspan></text>
+    </g>
+    <g
+       id="g6881">
+      <path
+         id="path3797"
+         d="m 54.697833,86.207962 v 10 h 20 v -10 z"
+         style="fill:#df2d38;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         inkscape:connector-curvature="0" />
+      <text
+         id="text3803"
+         y="92.530708"
+         x="57.495689"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan3801"
+           y="92.530708"
+           x="57.495689"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"><tspan
+             id="tspan3799"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458332"
+             dy="0"
+             dx="0">Org A</tspan></tspan></text>
+    </g>
+    <g
+       id="g6893">
+      <path
+         id="path3805"
+         d="m 108.71947,86.207962 v 10 h 20 v -10 z"
+         style="fill:#df2d38;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.22209929"
+         inkscape:connector-curvature="0" />
+      <text
+         id="text3811"
+         y="92.530708"
+         x="111.54626"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+           id="tspan3809"
+           y="92.530708"
+           x="111.54626"
+           sodipodi:role="line"><tspan
+             id="tspan3807"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458332"
+             dy="0"
+             dx="0">Org C</tspan></tspan></text>
+    </g>
+    <g
+       id="g6857"
+       transform="translate(-0.22369,5.2916669)">
+      <path
+         id="path3813"
+         d="m 131.88648,158.3318 v 10 h 20 v -10 z"
+         style="fill:#ffd42a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2220993"
+         inkscape:connector-curvature="0" />
+      <text
+         id="text3819"
+         y="164.65454"
+         x="134.91705"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan3817"
+           y="164.65454"
+           x="134.91705"
+           sodipodi:role="line"><tspan
+             id="tspan3815"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+             dy="0"
+             dx="0">Org E</tspan></tspan></text>
+    </g>
+    <g
+       id="g6887">
+      <path
+         id="path3827"
+         d="m 80.967168,86.207962 v 10 h 20.000002 v -10 z"
+         style="fill:#df2d38;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.21491638"
+         inkscape:connector-curvature="0" />
+      <text
+         id="text3833"
+         y="92.530708"
+         x="83.826523"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan3831"
+           y="92.530708"
+           x="83.826523"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"><tspan
+             id="tspan3829"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458332"
+             dy="0"
+             dx="0">Org B</tspan></tspan></text>
+    </g>
+    <g
+       id="g6905"
+       transform="translate(4.2333335,-2.1782676)">
+      <path
+         id="path4005"
+         d="m 142.54055,75.323251 v 7 h 15 v -7 z"
+         style="fill:#ffd42a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.25242111"
+         inkscape:connector-curvature="0" />
+      <text
+         id="text4011"
+         y="80.051514"
+         x="143.39539"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.50333357px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan4009"
+           y="80.051514"
+           x="143.39539"
+           sodipodi:role="line"><tspan
+             id="tspan4007"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+             dy="0"
+             dx="0">Org X</tspan></tspan></text>
+    </g>
+    <g
+       id="g6899"
+       transform="translate(4.2333335,-4.2988103)">
+      <path
+         id="path4013"
+         d="m 142.54055,65.054512 v 7 h 15 v -7 z"
+         style="fill:#df2d38;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.25242108"
+         inkscape:connector-curvature="0" />
+      <text
+         id="text4019"
+         y="69.782776"
+         x="143.39539"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:5.50333357px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+           id="tspan4017"
+           y="69.782776"
+           x="143.39539"
+           sodipodi:role="line"><tspan
+             id="tspan4015"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.58611107px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458332"
+             dy="0"
+             dx="0">Org X</tspan></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="163.83357"
+       y="75.547371"
+       id="text4025"><tspan
+         sodipodi:role="line"
+         x="163.83357"
+         y="75.547371"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan5531">Organisation outside</tspan><tspan
+         sodipodi:role="line"
+         x="163.83357"
+         y="79.516121"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan6927">of the community A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="164.40372"
+       y="63.158089"
+       id="text4037"><tspan
+         sodipodi:role="line"
+         x="164.40372"
+         y="63.158089"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan5533">Organisation inside</tspan><tspan
+         sodipodi:role="line"
+         x="164.40372"
+         y="67.126839"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan6925">the community A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="164.41006"
+       y="88.449684"
+       id="text4055"><tspan
+         sodipodi:role="line"
+         x="164.41006"
+         y="88.449684"
+         id="tspan4053"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.26458332"
+           id="tspan4051">MISP event shared to</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="164.41006"
+         y="92.418434"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan5535"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.26458332"
+           id="tspan5537">the community A only</tspan></tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 145.82111,46.810828 h 16.9056 v 8.68583 h -16.9056 z"
+       id="path2044" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="164.51164"
+       y="52.009499"
+       id="text2050"><tspan
+         id="tspan4724"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         sodipodi:role="line"
+         x="164.51164"
+         y="52.009499">Community A</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.25101271;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 143.49494,38.766354 h 63.36864 v 3.730859 h -63.36864 z"
+       id="path1946-9" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.41097251;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 143.5662,42.755525 h 63.22612 V 127.07832 H 143.5662 Z"
+       id="path1946-9-6" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="162.70531"
+       y="41.807323"
+       id="text2050-1"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         sodipodi:role="line"
+         x="162.70531"
+         y="41.807323"
+         id="tspan2048-7">Legend</tspan></text>
+    <g
+       id="g6875">
+      <path
+         id="path4267"
+         d="m 54.613092,122.7951 v 10 h 20 v -10 z"
+         style="fill:#df2d38;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2220993"
+         inkscape:connector-curvature="0" />
+      <text
+         id="text4273"
+         y="129.11784"
+         x="57.472443"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+           id="tspan4271"
+           y="129.11784"
+           x="57.472443"
+           sodipodi:role="line"><tspan
+             id="tspan4269"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458332"
+             dy="0"
+             dx="0">Org B</tspan></tspan></text>
+    </g>
+    <text
+       id="text8673"
+       y="113.25219"
+       x="111.61844"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="122.90768"
+         x="111.61844"
+         id="tspan8671"
+         sodipodi:role="line"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       id="text8737"
+       y="128.08565"
+       x="142.18738"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="137.74115"
+         x="142.18738"
+         id="tspan8735"
+         sodipodi:role="line"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       id="text867"
+       y="60.764881"
+       x="42.333332"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="70.42038"
+         x="42.333332"
+         id="tspan865"
+         sodipodi:role="line"
+         style="stroke-width:0.26458332" /></text>
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-244.51817,21.422542)"
+       id="g6490">
+      <g
+         id="Layer_2" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="25.891367"
+       y="114.4375"
+       id="text1382"><tspan
+         sodipodi:role="line"
+         id="tspan1380"
+         x="25.891367"
+         y="124.09299"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="173.15059"
+       y="70.214287"
+       id="text1390"><tspan
+         sodipodi:role="line"
+         id="tspan1388"
+         x="173.15059"
+         y="79.869781"
+         style="stroke-width:0.26458332" /></text>
+    <g
+       id="g3091"
+       transform="matrix(0.26458333,0,0,0.26458333,45.464047,250.8846)">
+      <g
+         id="Layer_2-5" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="110.98966"
+       y="53.620796"
+       id="text1131"><tspan
+         sodipodi:role="line"
+         id="tspan1129"
+         x="110.98966"
+         y="63.276291"
+         style="stroke-width:0.26458332" /></text>
+    <g
+       id="g6605"
+       transform="matrix(0.56557062,0,0,0.59949322,22.53752,37.143942)">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.55080867px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         d="m 54.697833,100.4413 c 0,-2.6534 2.250898,-4.80896 5.020838,-4.80896 2.77523,0 5.02083,2.15556 5.02083,4.80896 0,2.65871 -2.2456,4.809 -5.02083,4.809 -2.76994,0 -5.020838,-2.15029 -5.020838,-4.809"
+         id="path3887-2-6" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="57.642761"
+         y="102.15053"
+         id="text3855-6"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.3499999px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+           sodipodi:role="line"
+           x="57.642761"
+           y="102.15053"
+           id="tspan3853-9">e<tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.3499999px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.26458332"
+   id="tspan3851-9" /></tspan></text>
+    </g>
+    <g
+       id="g6851">
+      <path
+         id="path3789-5"
+         d="m 131.66279,142.61571 v 10 h 20 v -10 z"
+         style="fill:#ffd42a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.22188391"
+         inkscape:connector-curvature="0" />
+      <text
+         id="text3795-4"
+         y="148.93846"
+         x="134.72954"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan3793-4"
+           y="148.93846"
+           x="134.72954"
+           sodipodi:role="line"><tspan
+             id="tspan3791-8"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+             dy="0"
+             dx="0">Org F</tspan></tspan></text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.54772115;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.54772113, 1.09544224;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 50.598414,36.271026 H 133.16098 V 134.60216 H 50.598414 Z"
+       id="path2044-2" />
+    <g
+       id="g6911"
+       transform="translate(4.9886486,-0.03752524)">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.55080867px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         d="m 144.2644,89.584832 c 0,-2.65339 2.2509,-4.80896 5.02084,-4.80896 2.77523,0 5.02083,2.15557 5.02083,4.80896 0,2.6587 -2.2456,4.80898 -5.02083,4.80898 -2.76994,0 -5.02084,-2.15028 -5.02084,-4.80898"
+         id="path3887-2-6-5" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="147.38458"
+         y="91.324272"
+         id="text3855-6-2"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.3499999px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+           sodipodi:role="line"
+           x="147.38458"
+           y="91.324272"
+           id="tspan3853-9-9">e</tspan></text>
+    </g>
+    <g
+       id="g6611"
+       transform="matrix(0.56360381,0,0,0.57963563,63.487294,40.075551)">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.55080867px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         d="m 102.84837,98.824618 c 0,-2.653398 2.25089,-4.808958 5.02083,-4.808958 2.77523,0 5.02083,2.15556 5.02083,4.808958 0,2.658712 -2.2456,4.809002 -5.02083,4.809002 -2.76994,0 -5.02083,-2.15029 -5.02083,-4.809002"
+         id="path3887-2-6-6" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="105.79346"
+         y="100.43495"
+         id="text3855-6-3"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.3499999px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+           sodipodi:role="line"
+           x="105.79346"
+           y="100.43495"
+           id="tspan3853-9-2">e<tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.3499999px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.26458332"
+   id="tspan3851-9-5" /></tspan></text>
+    </g>
+    <g
+       id="g6617"
+       transform="matrix(0.56360571,0,0,0.57963662,24.851037,45.485758)">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.55080867px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         d="m 72.496424,130.38258 c 0,-2.6534 2.25089,-4.80896 5.020825,-4.80896 2.775215,0 5.0208,2.15556 5.0208,4.80896 0,2.6587 -2.245585,4.80898 -5.0208,4.80898 -2.769935,0 -5.020825,-2.15028 -5.020825,-4.80898"
+         id="path3887-2-6-6-5" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="75.441353"
+         y="131.91255"
+         id="text3855-6-3-1"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.3499999px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+           sodipodi:role="line"
+           x="75.441353"
+           y="131.91255"
+           id="tspan3853-9-2-7">e<tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.3499999px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.26458332"
+   id="tspan3851-9-5-8" /></tspan></text>
+    </g>
+    <g
+       id="g6863">
+      <path
+         id="path3813-8"
+         d="m 78.024874,142.20351 v 10 h 19.999898 v -10 z"
+         style="fill:#ffd42a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2220993"
+         inkscape:connector-curvature="0" />
+      <text
+         id="text3819-0"
+         y="148.52626"
+         x="81.091568"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+           id="tspan3817-3"
+           y="148.52626"
+           x="81.091568"
+           sodipodi:role="line"><tspan
+             id="tspan3815-2"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+             dy="0"
+             dx="0">Org F</tspan></tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="164.47934"
+       y="115.56295"
+       id="text4055-3"><tspan
+         sodipodi:role="line"
+         x="164.47934"
+         y="115.56295"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan5535-1">Synchronisation between</tspan><tspan
+         sodipodi:role="line"
+         x="164.47934"
+         y="119.5317"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan6584">two MISP instances</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="164.56628"
+       y="100.01713"
+       id="text4055-2"><tspan
+         sodipodi:role="line"
+         x="164.56628"
+         y="100.01713"
+         id="tspan4053-0"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.26458332"
+           id="tspan4051-5">MISP event created by </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="164.56628"
+         y="103.98588"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan5535-12">Org A and shared as</tspan><tspan
+         sodipodi:role="line"
+         x="164.56628"
+         y="107.95463"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+         id="tspan1377">&quot;Connected communities&quot;</tspan></text>
+    <g
+       id="g1398"
+       transform="translate(5.1448637,13.218934)">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#456c80;fill-opacity:1;stroke:#000000;stroke-width:0.55080867px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         d="m 144.2644,89.584832 c 0,-2.65339 2.2509,-4.80896 5.02084,-4.80896 2.77523,0 5.02083,2.15557 5.02083,4.80896 0,2.6587 -2.2456,4.80898 -5.02083,4.80898 -2.76994,0 -5.02084,-2.15028 -5.02084,-4.80898"
+         id="path3887-2-6-5-8" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="146.63113"
+         y="91.956787"
+         id="text3855-6-2-5"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.3499999px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           sodipodi:role="line"
+           x="146.63113"
+           y="91.956787"
+           id="tspan3853-9-9-2">e'</tspan></text>
+    </g>
+    <g
+       id="g1605"
+       transform="matrix(0.5625214,0,0,0.5908189,-20.789857,44.429415)">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#456c80;fill-opacity:1;stroke:#000000;stroke-width:0.55080867px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         d="m 144.2644,89.584832 c 0,-2.65339 2.2509,-4.80896 5.02084,-4.80896 2.77523,0 5.02083,2.15557 5.02083,4.80896 0,2.6587 -2.2456,4.80898 -5.02083,4.80898 -2.76994,0 -5.02084,-2.15028 -5.02084,-4.80898"
+         id="path3887-2-6-5-8-1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="146.63113"
+         y="91.956787"
+         id="text3855-6-2-5-9"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.3499999px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           sodipodi:role="line"
+           x="146.63113"
+           y="91.956787"
+           id="tspan3853-9-9-2-5">e'</tspan></text>
+    </g>
+    <g
+       id="g1605-8-9"
+       transform="matrix(0.56645739,0,0,0.59080229,-9.1388808,68.133353)">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#456c80;fill-opacity:1;stroke:#000000;stroke-width:0.55080867px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         d="m 144.2644,89.584832 c 0,-2.65339 2.2509,-4.80896 5.02084,-4.80896 2.77523,0 5.02083,2.15557 5.02083,4.80896 0,2.6587 -2.2456,4.80898 -5.02083,4.80898 -2.76994,0 -5.02084,-2.15028 -5.02084,-4.80898"
+         id="path3887-2-6-5-8-1-0-3" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="146.63113"
+         y="91.956787"
+         id="text3855-6-2-5-9-6-1"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.3499999px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           sodipodi:role="line"
+           x="146.63113"
+           y="91.956787"
+           id="tspan3853-9-9-2-5-7-1">e'</tspan></text>
+    </g>
+    <g
+       id="g1605-8-9-5-9"
+       transform="matrix(0.56324812,0,0,0.56324812,46.721146,102.2117)">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#456c80;fill-opacity:1;stroke:#000000;stroke-width:0.55080867px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         d="m 144.2644,89.584832 c 0,-2.65339 2.2509,-4.80896 5.02084,-4.80896 2.77523,0 5.02083,2.15557 5.02083,4.80896 0,2.6587 -2.2456,4.80898 -5.02083,4.80898 -2.76994,0 -5.02084,-2.15028 -5.02084,-4.80898"
+         id="path3887-2-6-5-8-1-0-3-6-4" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="146.63113"
+         y="91.956787"
+         id="text3855-6-2-5-9-6-1-5-0"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.3499999px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           sodipodi:role="line"
+           x="146.63113"
+           y="91.956787"
+           id="tspan3853-9-9-2-5-7-1-7-0">e'</tspan></text>
+    </g>
+    <g
+       id="g1782">
+      <g
+         transform="matrix(0.56645721,0,0,0.5908023,11.614997,44.373577)"
+         id="g1605-8">
+        <path
+           id="path3887-2-6-5-8-1-0"
+           d="m 144.2644,89.584832 c 0,-2.65339 2.2509,-4.80896 5.02084,-4.80896 2.77523,0 5.02083,2.15557 5.02083,4.80896 0,2.6587 -2.2456,4.80898 -5.02083,4.80898 -2.76994,0 -5.02084,-2.15028 -5.02084,-4.80898"
+           style="fill:#456c80;fill-opacity:1;stroke:#000000;stroke-width:0.55080867px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text3855-6-2-5-9-6"
+           y="91.956787"
+           x="146.63113"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             id="tspan3853-9-9-2-5-7"
+             y="91.956787"
+             x="146.63113"
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.3499999px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">e'</tspan></text>
+      </g>
+      <text
+         id="text4037-8-7"
+         y="108.59018"
+         x="86.5839"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20206846"
+         xml:space="preserve"><tspan
+           id="tspan6925-6-0"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20206846"
+           y="108.59018"
+           x="86.5839"
+           sodipodi:role="line">Source (Orgc) = &quot;Org A&quot;</tspan><tspan
+           id="tspan1738-1"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20206846"
+           y="112.11796"
+           x="86.5839"
+           sodipodi:role="line">Originator (Org) = &quot;Org A&quot;</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path1761"
+         d="m 95.65983,105.25092 0.80181,-4.95254"
+         style="fill:none;stroke:#000000;stroke-width:0.22336502px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1763"
+         d="M 87.240547,105.39788 123.6331,105.26445"
+         style="fill:none;stroke:#000000;stroke-width:0.27321687px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(-0.57555634,54.920778)"
+       id="g1782-3">
+      <g
+         transform="matrix(0.56324811,0,0,0.56324811,12.073766,47.290919)"
+         id="g1605-8-3">
+        <path
+           id="path3887-2-6-5-8-1-0-6"
+           d="m 144.2644,89.584832 c 0,-2.65339 2.2509,-4.80896 5.02084,-4.80896 2.77523,0 5.02083,2.15557 5.02083,4.80896 0,2.6587 -2.2456,4.80898 -5.02083,4.80898 -2.76994,0 -5.02084,-2.15028 -5.02084,-4.80898"
+           style="fill:#456c80;fill-opacity:1;stroke:#000000;stroke-width:0.55080867px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <text
+           id="text3855-6-2-5-9-6-0"
+           y="91.956787"
+           x="146.63113"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             id="tspan3853-9-9-2-5-7-5"
+             y="91.956787"
+             x="146.63113"
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.3499999px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">e'</tspan></text>
+      </g>
+      <text
+         id="text4037-8-7-7"
+         y="108.59018"
+         x="79.704727"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20206846"
+         xml:space="preserve"><tspan
+           id="tspan6925-6-0-1"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20206846"
+           y="108.59018"
+           x="79.704727"
+           sodipodi:role="line">Source (Orgc) = &quot;Org A&quot;</tspan><tspan
+           id="tspan1738-1-2"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.20206846"
+           y="112.11796"
+           x="79.704727"
+           sodipodi:role="line">Originator (Org) = &quot;Org B&quot;</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path1761-5"
+         d="m 95.65983,105.28295 0.80181,-4.98457"
+         style="fill:none;stroke:#000000;stroke-width:0.22408612px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1763-6"
+         d="m 80.361376,105.39788 36.392514,-0.13343"
+         style="fill:none;stroke:#000000;stroke-width:0.27321687px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g1605-4"
+       transform="matrix(0.56252139,0,0,0.5908189,33.117036,44.429415)">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#456c80;fill-opacity:1;stroke:#000000;stroke-width:0.55080867px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         d="m 144.2644,89.584832 c 0,-2.65339 2.2509,-4.80896 5.02084,-4.80896 2.77523,0 5.02083,2.15557 5.02083,4.80896 0,2.6587 -2.2456,4.80898 -5.02083,4.80898 -2.76994,0 -5.02084,-2.15028 -5.02084,-4.80898"
+         id="path3887-2-6-5-8-1-9" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="146.63113"
+         y="91.956787"
+         id="text3855-6-2-5-9-02"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.3499999px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           sodipodi:role="line"
+           x="146.63113"
+           y="91.956787"
+           id="tspan3853-9-9-2-5-5">e'</tspan></text>
+    </g>
+    <g
+       id="g1605-8-9-5-9-8"
+       transform="matrix(0.56324812,0,0,0.56324812,-38.623786,70.553276)">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#456c80;fill-opacity:1;stroke:#000000;stroke-width:0.55080867px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         d="m 144.2644,89.584832 c 0,-2.65339 2.2509,-4.80896 5.02084,-4.80896 2.77523,0 5.02083,2.15557 5.02083,4.80896 0,2.6587 -2.2456,4.80898 -5.02083,4.80898 -2.76994,0 -5.02084,-2.15028 -5.02084,-4.80898"
+         id="path3887-2-6-5-8-1-0-3-6-4-7" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="146.63113"
+         y="91.956787"
+         id="text3855-6-2-5-9-6-1-5-0-4"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.3499999px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           sodipodi:role="line"
+           x="146.63113"
+           y="91.956787"
+           id="tspan3853-9-9-2-5-7-1-7-0-6">e'</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="number"
+     transform="translate(-28.174275,-35.997165)">
+    <g
+       id="g6599"
+       transform="matrix(0.56581841,0,0,0.59003465,43.995619,38.718429)">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.55080867px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         d="m 74.697833,99.382964 c 0,-2.653398 2.250898,-4.808958 5.020834,-4.808958 2.775215,0 5.0208,2.15556 5.0208,4.808958 0,2.658706 -2.245585,4.808996 -5.0208,4.808996 -2.769936,0 -5.020834,-2.15029 -5.020834,-4.808996"
+         id="path3887-2-6-8" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.3499999px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="77.642761"
+         y="101.09219"
+         id="text3855-6-26"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.3499999px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+           sodipodi:role="line"
+           x="77.642761"
+           y="101.09219"
+           id="tspan3853-9-8">e<tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:6.3499999px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.26458332"
+   id="tspan3851-9-9" /></tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="MISP_instance_logo"
+     transform="translate(-28.174275,-35.997165)">
+    <g
+       transform="matrix(0.22985581,0,0,0.22985581,67.273635,36.649414)"
+       id="g5-1-2">
+      <g
+         id="g7-5-0">
+        <g
+           id="g9-9-3">
+          <g
+             id="g11-8-3">
+            <path
+               style="fill:#df2d38"
+               inkscape:connector-curvature="0"
+               id="path13-5-5"
+               d="M 133.4,205.7 C 190,193.6 223.9,135.5 206.5,80.3 l -109.1,63 36,62.4" />
+          </g>
+        </g>
+        <path
+           style="fill:#df2d38"
+           inkscape:connector-curvature="0"
+           id="path15-2-7"
+           d="M 162,24.9 C 121.4,1.4 71.1,10.3 40.7,43.4 L 150.1,106.6 186,44.4 C 179.3,36.8 171.2,30.2 162,24.9" />
+        <g
+           id="g17-8-9">
+          <g
+             id="g19-4-9">
+            <path
+               style="fill:#df2d38"
+               inkscape:connector-curvature="0"
+               id="path21-61-6"
+               d="m 63.9,194.7 c 8.9,5.2 18.4,8.8 28,10.9 V 79.2 H 19.8 C 5.6,122.4 23,171.1 63.9,194.7" />
+          </g>
+        </g>
+      </g>
+      <circle
+         style="fill:#ffffff"
+         id="circle23-7-9"
+         r="81.099998"
+         cy="110"
+         cx="113.4" />
+      <circle
+         style="fill:#456c80"
+         id="circle25-3-8"
+         r="76"
+         cy="110"
+         cx="113.4" />
+      <g
+         style="opacity:0.2"
+         id="g27-44-6">
+        <path
+           style="fill:#ffffff"
+           inkscape:connector-curvature="0"
+           id="path29-5-6"
+           d="m 98.7,143.7 88.6,-51.1 c -0.2,-0.7 -0.3,-1.5 -0.5,-2.2 l -91,52.5 24.7,42.8 c 0.8,-0.1 1.6,-0.2 2.3,-0.3 z" />
+        <path
+           style="fill:#ffffff"
+           inkscape:connector-curvature="0"
+           id="path31-7-3"
+           d="m 175,65.6 c -0.5,-0.6 -0.9,-1.3 -1.4,-1.9 L 149.7,105.2 61.5,54.3 c -0.5,0.5 -1.1,1 -1.6,1.6 l 90.5,52.2 z" />
+        <path
+           style="fill:#ffffff"
+           inkscape:connector-curvature="0"
+           id="path33-8-8"
+           d="m 44.2,78.2 c -0.3,0.7 -0.7,1.4 -1,2.2 h 47.5 v 102.3 c 0.7,0.2 1.4,0.4 2.2,0.6 V 78.2 Z" />
+      </g>
+    </g>
+    <circle
+       r="14.917643"
+       style="fill:#ffffff;stroke-width:0.22985576"
+       id="circle35-1-8"
+       cy="61.634243"
+       cx="93.24675" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="MISP_instance_text"
+     transform="translate(-28.174275,-35.997165)">
+    <text
+       id="text3749"
+       y="54.224892"
+       x="92.99836"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="54.224892"
+         x="92.99836"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.26458332"
+         id="tspan1029"><tspan
+           id="tspan3745"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.26458332">MISP</tspan></tspan><tspan
+         y="60.398502"
+         x="92.99836"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.26458332"
+         id="tspan6783"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.26458332"
+   dy="0"
+   dx="0"
+   id="tspan6785">Instance </tspan>A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="116.26548"
+       y="42.244045"
+       id="text1038"><tspan
+         sodipodi:role="line"
+         id="tspan1036"
+         x="116.26548"
+         y="51.89954"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       id="text3749-3"
+       y="66.510666"
+       x="93.120476"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         y="66.510666"
+         x="93.120476"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.26458332"
+         id="tspan6783-9">Operated by</tspan><tspan
+         y="70.479416"
+         x="93.120476"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.26458332"
+         id="tspan1258">organisation A</tspan></text>
+    <g
+       id="g6999"
+       transform="translate(0,0.70785)">
+      <g
+         id="g5-1"
+         transform="matrix(0.22985581,0,0,0.22985581,28.442981,132.68775)">
+        <g
+           id="g7-5">
+          <g
+             id="g9-9">
+            <g
+               id="g11-8">
+              <path
+                 d="M 133.4,205.7 C 190,193.6 223.9,135.5 206.5,80.3 l -109.1,63 36,62.4"
+                 id="path13-5"
+                 inkscape:connector-curvature="0"
+                 style="fill:#ffd42a;fill-opacity:1" />
+            </g>
+          </g>
+          <path
+             d="M 162,24.9 C 121.4,1.4 71.1,10.3 40.7,43.4 L 150.1,106.6 186,44.4 C 179.3,36.8 171.2,30.2 162,24.9"
+             id="path15-2"
+             inkscape:connector-curvature="0"
+             style="fill:#ffd42a;fill-opacity:1" />
+          <g
+             style="fill:#ffd42a;fill-opacity:1"
+             id="g17-8">
+            <g
+               style="fill:#ffd42a;fill-opacity:1"
+               id="g19-4">
+              <path
+                 d="m 63.9,194.7 c 8.9,5.2 18.4,8.8 28,10.9 V 79.2 H 19.8 C 5.6,122.4 23,171.1 63.9,194.7"
+                 id="path21-61"
+                 inkscape:connector-curvature="0"
+                 style="fill:#ffd42a;fill-opacity:1" />
+            </g>
+          </g>
+        </g>
+        <circle
+           cx="113.4"
+           cy="110"
+           r="81.099998"
+           id="circle23-7"
+           style="fill:#ffffff" />
+        <circle
+           cx="113.4"
+           cy="110"
+           r="76"
+           id="circle25-3"
+           style="fill:#456c80" />
+        <g
+           id="g27-44"
+           style="opacity:0.2">
+          <path
+             d="m 98.7,143.7 88.6,-51.1 c -0.2,-0.7 -0.3,-1.5 -0.5,-2.2 l -91,52.5 24.7,42.8 c 0.8,-0.1 1.6,-0.2 2.3,-0.3 z"
+             id="path29-5"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff" />
+          <path
+             d="m 175,65.6 c -0.5,-0.6 -0.9,-1.3 -1.4,-1.9 L 149.7,105.2 61.5,54.3 c -0.5,0.5 -1.1,1 -1.6,1.6 l 90.5,52.2 z"
+             id="path31-7"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff" />
+          <path
+             d="m 44.2,78.2 c -0.3,0.7 -0.7,1.4 -1,2.2 h 47.5 v 102.3 c 0.7,0.2 1.4,0.4 2.2,0.6 V 78.2 Z"
+             id="path33-8"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+      <circle
+         cx="54.416092"
+         cy="157.67239"
+         id="circle35-1"
+         style="fill:#ffffff;stroke-width:0.22985578"
+         r="14.917643" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="54.283363"
+         y="150.37622"
+         id="text3749-2"><tspan
+           id="tspan1071"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.26458332"
+           sodipodi:role="line"
+           x="54.283363"
+           y="150.37622"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.26458332"
+             id="tspan3745-1">MISP</tspan></tspan><tspan
+           id="tspan6787"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.26458332"
+           sodipodi:role="line"
+           x="54.283363"
+           y="156.54984"><tspan
+   id="tspan6789"
+   dx="0"
+   dy="0"
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.26458332">Instance </tspan>B</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="54.304253"
+         y="162.11852"
+         id="text3749-3-4"><tspan
+           id="tspan6783-9-7"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.26458332"
+           sodipodi:role="line"
+           x="54.304253"
+           y="162.11852">Operated by</tspan><tspan
+           id="tspan1258-5"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.26458332"
+           sodipodi:role="line"
+           x="54.304253"
+           y="166.08727">organisation B</tspan></text>
+    </g>
+    <g
+       id="g6957"
+       transform="translate(0,-0.70785003)">
+      <g
+         id="g5-1-4"
+         transform="matrix(0.22985581,0,0,0.22985581,152.75327,134.10345)">
+        <g
+           id="g7-5-2">
+          <g
+             id="g9-9-37">
+            <g
+               id="g11-8-8">
+              <path
+                 d="M 133.4,205.7 C 190,193.6 223.9,135.5 206.5,80.3 l -109.1,63 36,62.4"
+                 id="path13-5-3"
+                 inkscape:connector-curvature="0"
+                 style="fill:#ffd42a;fill-opacity:1" />
+            </g>
+          </g>
+          <path
+             d="M 162,24.9 C 121.4,1.4 71.1,10.3 40.7,43.4 L 150.1,106.6 186,44.4 C 179.3,36.8 171.2,30.2 162,24.9"
+             id="path15-2-8"
+             inkscape:connector-curvature="0"
+             style="fill:#ffd42a;fill-opacity:1" />
+          <g
+             style="fill:#ffd42a;fill-opacity:1"
+             id="g17-8-5">
+            <g
+               style="fill:#ffd42a;fill-opacity:1"
+               id="g19-4-7">
+              <path
+                 d="m 63.9,194.7 c 8.9,5.2 18.4,8.8 28,10.9 V 79.2 H 19.8 C 5.6,122.4 23,171.1 63.9,194.7"
+                 id="path21-61-9"
+                 inkscape:connector-curvature="0"
+                 style="fill:#ffd42a;fill-opacity:1" />
+            </g>
+          </g>
+        </g>
+        <circle
+           cx="113.4"
+           cy="110"
+           r="81.099998"
+           id="circle23-7-1"
+           style="fill:#ffffff" />
+        <circle
+           cx="113.4"
+           cy="110"
+           r="76"
+           id="circle25-3-4"
+           style="fill:#456c80" />
+        <g
+           id="g27-44-8"
+           style="opacity:0.2">
+          <path
+             d="m 98.7,143.7 88.6,-51.1 c -0.2,-0.7 -0.3,-1.5 -0.5,-2.2 l -91,52.5 24.7,42.8 c 0.8,-0.1 1.6,-0.2 2.3,-0.3 z"
+             id="path29-5-0"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff" />
+          <path
+             d="m 175,65.6 c -0.5,-0.6 -0.9,-1.3 -1.4,-1.9 L 149.7,105.2 61.5,54.3 c -0.5,0.5 -1.1,1 -1.6,1.6 l 90.5,52.2 z"
+             id="path31-7-5"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff" />
+          <path
+             d="m 44.2,78.2 c -0.3,0.7 -0.7,1.4 -1,2.2 h 47.5 v 102.3 c 0.7,0.2 1.4,0.4 2.2,0.6 V 78.2 Z"
+             id="path33-8-2"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+      <circle
+         cx="178.72675"
+         cy="159.08772"
+         id="circle35-1-3"
+         style="fill:#ffffff;stroke-width:0.22985578"
+         r="14.917643" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="178.57901"
+         y="151.77744"
+         id="text3749-2-5"><tspan
+           id="tspan1071-1"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.26458332"
+           sodipodi:role="line"
+           x="178.57901"
+           y="151.77744"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.26458332"
+             id="tspan3745-1-7">MISP</tspan></tspan><tspan
+           id="tspan6791"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.26458332"
+           sodipodi:role="line"
+           x="178.57901"
+           y="157.95105"><tspan
+             id="tspan6793"
+             dx="0"
+             dy="0"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.93888903px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.26458332">Instance E</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="178.61302"
+         y="163.53384"
+         id="text3749-3-4-7"><tspan
+           id="tspan6783-9-7-6"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.26458332"
+           sodipodi:role="line"
+           x="178.61302"
+           y="163.53384">Operated by</tspan><tspan
+           id="tspan1258-5-3"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.26458332"
+           sodipodi:role="line"
+           x="178.61302"
+           y="167.50259">organisation E</tspan></text>
+    </g>
+  </g>
+</svg>
