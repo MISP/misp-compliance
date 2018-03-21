@@ -17,7 +17,7 @@ National and governmental Computer Security Incident Response Team (n/g CSIRTs) 
 
 Information sharing communities are enabled using tools like MISP. As a Computer Security Incident Response Team for the private sector communes and non-governmental entities in Luxembourg, [CIRCL](https://www.circl.lu/) created and operates several communities to automate information sharing at national, European and international levels.
 
-- [Document in Markdown format](./gdpr/information_sharing_and_cooperation_gdpr.md)
+- [Document in Markdown format](./GDPR/information_sharing_and_cooperation_gdpr.md)
 
 ## MISP as supporting platform for sharing information, following ISO/IEC 27010:2015
 
