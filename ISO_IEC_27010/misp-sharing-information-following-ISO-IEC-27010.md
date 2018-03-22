@@ -278,7 +278,7 @@ MISP has asset management tools build into it. For example, taxonomies can be us
 			<li><a href="https://www.misp-project.org/taxonomies.html#_analyst_assessment"> The analyst experience taxonomy</a> can be used to assess the credibility of an analysis of an event.</li>
 			<li>The <a href="https://www.misp-project.org/taxonomies.html#_estimative_language">likelihood-probability</a> taxonomy can also be used to measure the credibility of an event.</li>
 			<li><a href="http://www.misp-project.org/features.html">The correlation feature and sightings</a> can also help assessing the credibility of an event.</li>
-			<li><a href="https://www.circl.lu/doc/misp/administration/#whitelisting-an-address">Whitelist</a> and <a href="https://github.com/MISP/misp-warninglists">Warning lists</a> improve false positive detection</li>
+			<li><a href="https://www.circl.lu/doc/misp/administration/#whitelisting-an-address">Whitelist</a> and <a href="https://github.com/MISP/misp-warninglists">Warning lists</a> improve false positive detection.</li>
 		</ul>
 	</td> 
   </tr>
@@ -295,6 +295,8 @@ MISP has asset management tools build into it. For example, taxonomies can be us
 	<td>
 		<ul>
 		  <li><a href="https://www.circl.lu/doc/misp/create-event-report/">"Threat Level" of a MISP event</a> indicates the level of criticality.</li>
+	      <li>The <a href="https://www.misp-project.org/taxonomies.html#_impact_overall_rating">impact overall rating</a> taxonomy.</li>
+          <li>The <a href="https://www.misp-project.org/taxonomies.html#_victim_employee_count">victims employee count</a> taxonomy.</li>
 		</ul>
 	</td>
   </tr>
@@ -329,7 +331,7 @@ MISP has asset management tools build into it. For example, taxonomies can be us
     <td><b>Sensitivity reduction</b> (8.4.4)</td>
 	<td>
 		<ul>
-		  <li>In MISP, there is no taxonomy or specific field in the data model regarding sensitivity reduction. However, at any point in time, the originator of the event can change the TLP or the sharing model of an event for example.</li>
+		  <li>Sightings in MISP can be used to evaluate the value of an attribute over time. Especially sightings of type <a href="http://www.misp.software/2017/02/16/Sighting-The-Next-Level.html">"Expiration"</a> can be added to an attribute to indicate that the attribute has lost value (e.g. URLs which have been cleaned after some time).</li>
 		</ul>
 	</td>
   </tr>
