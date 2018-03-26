@@ -333,6 +333,7 @@ MISP has asset management tools build into it. For example, taxonomies can be us
 	<td>
 		<ul>
 		  <li>Sightings in MISP can be used to evaluate the value of an attribute over time. Especially sightings of type <a href="http://www.misp.software/2017/02/16/Sighting-The-Next-Level.html">"Expiration"</a> can be added to an attribute to indicate that the attribute has lost value (e.g. URLs which have been cleaned after some time).</li>
+		  <li>The MISP <a href="https://www.misp-project.org/taxonomies.html#_infrastructure_state">infrastructure-state taxonomy</a> can also indicate if the adversary infrastructure at the event or attribute level is still active or is down.</li>
 		</ul>
 	</td>
   </tr>
