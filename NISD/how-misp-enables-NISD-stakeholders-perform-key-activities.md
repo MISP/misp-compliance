@@ -158,7 +158,7 @@ MISP enables CSIRTs to perform all tasks mentioned in the NIS Directive. The nex
 		</th>
 		<th>
 			Supported by MISP?
-		<th>
+		</th>
 	</tr>
 	<tr>
 		<td>
@@ -166,7 +166,7 @@ MISP enables CSIRTs to perform all tasks mentioned in the NIS Directive. The nex
 		</td>
 		<td>
 			<b>Yes</b>
-		<td>
+		</td>
 	</tr>
 	<tr>
 		<td>
@@ -174,7 +174,7 @@ MISP enables CSIRTs to perform all tasks mentioned in the NIS Directive. The nex
 		</td>
 		<td>
 			<b>Yes</b>
-		<td>
+		</td>
 	</tr>
 	<tr>
 		<td>
@@ -182,7 +182,7 @@ MISP enables CSIRTs to perform all tasks mentioned in the NIS Directive. The nex
 		</td>
 		<td>
 			<b>Yes</b>
-		<td>
+		</td>
 	</tr>
 	<tr>
 		<td>
@@ -190,7 +190,7 @@ MISP enables CSIRTs to perform all tasks mentioned in the NIS Directive. The nex
 		</td>
 		<td>
 			<b>Yes</b>
-		<td>
+		</td>
 	</tr>
 	<tr>
 		<td>
@@ -198,7 +198,7 @@ MISP enables CSIRTs to perform all tasks mentioned in the NIS Directive. The nex
 		</td>
 		<td>
 			<b>Yes</b>
-		<td>
+		</td>
 	</tr>
 	<tr>
 		<td>
@@ -206,7 +206,7 @@ MISP enables CSIRTs to perform all tasks mentioned in the NIS Directive. The nex
 		</td>
 		<td>
 			<b>Yes</b>
-		<td>
+		</td>
 	</tr>
 	<tr>
 		<td>
@@ -214,7 +214,7 @@ MISP enables CSIRTs to perform all tasks mentioned in the NIS Directive. The nex
 		</td>
 		<td>
 			<b>Yes</b>
-		<td>
+		</td>
 	</tr>
 </table>
 
@@ -296,7 +296,7 @@ OESs and DSPs should take appropriate and proportionate technical and organisati
 		<td>
 			<b>Yes</b>
 		</td>
-	<tr>
+	</tr>
 	<tr>
 		<td>
 			Notify impact of incident if OESs relies on a third-party DSP.
@@ -304,7 +304,7 @@ OESs and DSPs should take appropriate and proportionate technical and organisati
 		<td>
 			<b>Yes</b>
 		</td>
-	<tr>
+	</tr>
 	<tr>
 		<td>
 			Inform the public about individual incidents if required by the notified competent authority or CSIRT.
@@ -312,7 +312,7 @@ OESs and DSPs should take appropriate and proportionate technical and organisati
 		<td>
 			Not applicable
 		</td>
-	<tr>
+	</tr>
 </table>
 
 ### Notify any incident having a “significant” or “substantial” impact to the NCA or to the CSIRT without undue delay.
