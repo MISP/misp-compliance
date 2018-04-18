@@ -31,6 +31,16 @@ The standard is applicable to all forms of exchange and sharing of sensitive inf
 
 - [Document in Markdown format](./ISO_IEC_27010/misp-sharing-information-following-ISO-IEC-27010.md)
 
+## How MISP enables stakeholders identified by the NISD to perform key activities
+
+Network and Information Security (NIS) means ‘the ability of a network or an information system to resist accidental events or unlawful or malicious actions that compromise the availability, authenticity, integrity and confidentiality of data and the related services’ . The Directive on security of network and information systems (NISD) lays down specific obligations for Member States of the EU to adopt a national NIS strategy, to designate National Competent Authorities (NCA), Single Points of Contact (SPoC) and specific NIS tasks to Computer Security Incident Response Teams (CSIRTs). In addition, the NIS Directive establish
+es security and incident notification requirements for Operators of Essential Services (OES) such as banking, energy, financial market infrastructure, digital infrastructure; and Digital Service Providers (DSP),
+including online marketplaces, online search engines and cloud services. Furthermore, it creates a cooperation group in order to develop trust amongst MSs and facilitate strategic cybersecurity information sharing. In parallel, it creates a CSIRTs network to build confidence amongst MSs to boost operational cybersecurity cooperation.
+
+The [Malware Information Sharing and Threat Intelligence Sharing Platform (MISP)](https://www.misp-project.org/) is an open source tool which primary purpose is to share cyber threat intelligence. It is broadly used in the CSIRTs community in the EU and beyond. It can be used for many other activities in addition to share cyber threat intelligence. Therefore, this article takes a closer look at how MISP can support stakeholders mentioned in the NISD to better perform the tasks identified therein. Especially CSIRTs, OESs and DSPs are the stakeholders that could benefit the most from using MISP in the scope of the NISD. Member States and Single Point of Contacts could also use MISP for the performance of their tasks, especially as a tool to receive and share NIS events and notify NIS incidents.
+
+- [Document in Markdown format](./NISD/how-misp-enables-NISD-stakeholders-perform-key-activities.md)
+
 # Contributing
 
 If you see any errors in the documents or would like to propose changes or updates, feel free to open an issue.
