@@ -1,3 +1,15 @@
+---
+title: "How MISP enables stakeholders identified by the NISD to perform key activities"
+author: [CIRCL Computer Incident Response Center Luxembourg, MISP Project]
+date: 2018-06-16
+tags: [NIS, NISD, misp, information sharing, information exchange, NIS Directive]
+titlepage: true
+toc-own-page: true
+number-sections: true
+titlepage-rule-color: EC2A3F
+colorlinks: false 
+...
+
 # How MISP enables stakeholders identified by the NISD to perform key activities
 
 Network and Information Security (NIS) means ‘the ability of a network or an information system to resist accidental events or unlawful or malicious actions that compromise the availability, authenticity, integrity and confidentiality of data and the related services’ . The Directive on security of network and information systems (NISD) lays down specific obligations for Member States of the EU to adopt a national NIS strategy, to designate National Competent Authorities (NCA), Single Points of Contact (SPoC) and specific NIS tasks to Computer Security Incident Response Teams (CSIRTs). In addition, the NIS Directive establishes security and incident notification requirements for Operators of Essential Services (OES) such as banking, energy, financial market infrastructure, digital infrastructure; and Digital Service Providers (DSP), including online marketplaces, online search engines and cloud services. Furthermore, it creates a cooperation group in order to develop trust amongst MSs and facilitate strategic cybersecurity information sharing. In parallel, it creates a CSIRTs network to build confidence amongst MSs to boost operational cybersecurity cooperation.
@@ -9,96 +21,18 @@ The [Malware Information Sharing and Threat Intelligence Sharing Platform (MISP)
 
 As mentioned before, the CSIRTs Network aims to facilitate operational cooperation between Member States in managing NIS incidents. The CSIRTs network is responsible for multiple tasks, including supporting MSs in addressing cross-border incidents, exchanging best practices on the exchange of information related to incident notification, and assisting MSs in building capacity in NIS. We summarise below the tasks where MISP can be directly or indirectly of support for the individual CSIRTs participating in the CSIRTs Network. Note that the tools used by the individual CSIRTs is a choice made by each one of them. The table below demonstrates how CIRCL understands that MISP could support without implying that all CSIRTs use or will use MISP.
 
-<table>
-	<tr>
-		<th>
-			CSIRTs network task as described in Article 12 of the NISD
-		</th>
-		<th>
-			Can MISP support?
-		</th>
-	</tr>
-	<tr>
-		<td>
-			(a) exchanging information on CSIRTs' services, operations and cooperation capabilities;
-		</td>
-		<td>
-			Not applicable
-		</td>
-	</tr>
-	<tr>
-		<td>
-			(b) at the request of a representative of a CSIRT from a Member State potentially affected by an incident, exchanging and discussing non-commercially sensitive information related to that incident and associated risks; however, any Member State's CSIRT may refuse to contribute to that discussion if there is a risk of prejudice to the investigation of the incident
-		</td>
-		<td>
-			<b>Yes</b>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			(c)	exchanging and making available on a voluntary basis non-confidential information concerning individual incidents;
-		</td>
-		<td>
-			<b>Yes</b>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			(d)	at the request of a representative of a Member State's CSIRT, discussing and, where possible, identifying a coordinated response to an incident that has been identified within the jurisdiction of that same Member State;
-		</td>
-		<td>
-			Not applicable
-		</td>
-	</tr>
-	<tr>
-		<td>
-			(e)	providing Member States with support in addressing cross-border incidents on the basis of their voluntary mutual assistance;
-		</td>
-		<td>
-			<b>Yes</b>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			(f)	discussing, exploring and identifying further forms of operational cooperation, including in relation to: (i) categories of risks and incidents; (ii) early warnings; (iii) mutual assistance; (iv) principles and modalities for coordination, when Member States respond to cross-border risks and incidents;
-		</td>
-		<td>
-			<b>Yes</b>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			(g)	informing the Cooperation Group of its activities and of the further forms of operational cooperation discussed pursuant to point (f), and requesting guidance in that regard;
-		</td>
-		<td>
-			Not applicable
-		</td>
-	</tr>
-	<tr>
-		<td>
-			(h)	discussing lessons learnt from exercises relating to the security of network and information systems, including from those organised by ENISA;
-		</td>
-		<td>
-			Not applicable
-		</td>
-	</tr>
-	<tr>
-		<td>
-			(i)	at the request of an individual CSIRT, discussing the capabilities and preparedness of that CSIRT;
-		</td>
-		<td>
-			Not applicable
-		</td>
-	</tr>
-	<tr>
-		<td>
-			(j)	issuing guidelines in order to facilitate the convergence of operational practices with regard to the application of the provisions of this Article concerning operational cooperation.
-		</td>
-		<td>
-			Not applicable
-		</td>
-	</tr>
-</table>
+|CSIRTs network task as described in Article 12 of the NISD|Can MISP support?|
+|--- |--- |
+|(a) exchanging information on CSIRTs' services, operations and cooperation capabilities;|Not applicable|
+|(b) at the request of a representative of a CSIRT from a Member State potentially affected by an incident, exchanging and discussing non-commercially sensitive information related to that incident and associated risks; however, any Member State's CSIRT may refuse to contribute to that discussion if there is a risk of prejudice to the investigation of the incident|Yes|
+|(c)exchanging and making available on a voluntary basis non-confidential information concerning individual incidents;|Yes|
+|(d)at the request of a representative of a Member State's CSIRT, discussing and, where possible, identifying a coordinated response to an incident that has been identified within the jurisdiction of that same Member State;|Not applicable|
+|(e)providing Member States with support in addressing cross-border incidents on the basis of their voluntary mutual assistance;|Yes|
+|(f)discussing, exploring and identifying further forms of operational cooperation, including in relation to: (i) categories of risks and incidents; (ii) early warnings; (iii) mutual assistance; (iv) principles and modalities for coordination, when Member States respond to cross-border risks and incidents;|Yes|
+|(g)informing the Cooperation Group of its activities and of the further forms of operational cooperation discussed pursuant to point (f), and requesting guidance in that regard;|Not applicable|
+|(h)discussing lessons learnt from exercises relating to the security of network and information systems, including from those organised by ENISA;|Not applicable|
+|(i)at the request of an individual CSIRT, discussing the capabilities and preparedness of that CSIRT;|Not applicable|
+|(j)issuing guidelines in order to facilitate the convergence of operational practices with regard to the application of the provisions of this Article concerning operational cooperation.|Not applicable|
 
 ### How MISP can support Article 12 (b) exchanging and discussing information related to incidents and associated risks
 
@@ -151,72 +85,15 @@ While performing activities in the above mentioned four areas, CSIRTs can use MI
 
 MISP enables CSIRTs to perform all tasks mentioned in the NIS Directive. The next table summarises these tasks and the sections below further explain how MISP supports these tasks.
 
-<table>
-	<tr>
-		<th>
-			CSIRTs network task from Annex I (2)
-		</th>
-		<th>
-			Supported by MISP?
-		</th>
-	</tr>
-	<tr>
-		<td>
-			(a) (i)	monitoring incidents at a national level;
-		</td>
-		<td>
-			<b>Yes</b>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			(a) (ii)	providing early warning, alerts, announcements and dissemination of information to relevant stakeholders about risks and incidents;
-		</td>
-		<td>
-			<b>Yes</b>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			(a) (iii)	responding to incidents;
-		</td>
-		<td>
-			<b>Yes</b>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			(a) (iv)	providing dynamic risk and incident analysis and situational awareness;
-		</td>
-		<td>
-			<b>Yes</b>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			(a) (v)	participating in the CSIRTs network.
-		</td>
-		<td>
-			<b>Yes</b>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			(b) CSIRTs shall establish cooperation relationships with the private sector.
-		</td>
-		<td>
-			<b>Yes</b>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			(c) promote the adoption and use of common or standardised practices for incident and risk-handling procedures; incident, risk and information classification schemes.
-		</td>
-		<td>
-			<b>Yes</b>
-		</td>
-	</tr>
-</table>
+|CSIRTs network task from Annex I (2)|Supported by MISP?|
+|--- |--- |
+|(a) (i)monitoring incidents at a national level;|Yes|
+|(a) (ii)providing early warning, alerts, announcements and dissemination of information to relevant stakeholders about risks and incidents;|Yes|
+|(a) (iii)responding to incidents;|Yes|
+|(a) (iv)providing dynamic risk and incident analysis and situational awareness;|Yes|
+|(a) (v)participating in the CSIRTs network.|Yes|
+|(b) CSIRTs shall establish cooperation relationships with the private sector.|Yes|
+|(c) promote the adoption and use of common or standardised practices for incident and risk-handling procedures; incident, risk and information classification schemes.|Yes|
 
 ### (a) (i)	monitoring incidents at a national level
 
@@ -224,11 +101,9 @@ For the purpose of this article, monitoring means observing and checking the pro
 
 In MISP it is possible to indicate what EU Member States are affected for each event representing an incident thanks to the [veris country](https://www.misp-project.org/taxonomies.html#_country) taxonomy. Therefore, CSIRTs can filter incidents relevant to their own Member State. In addition, various taxonomies are available in MISP to indicate the steps in the incident resolution such as the [status of events used in Request Tracker](https://www.misp-project.org/taxonomies.html#_rt_event_status) and the analysis levels. In terms of impact, the NISD states that to determine the impact of an incident, the following parameter shall be taken into account:
 
-<ol type="a">
-  <li>the number of users affected by the disruption of the essential service;</li>
-  <li>the duration of the incident;</li>
-  <li>the geographical spread with regard to the area affected by the incident.</li>
-</ol>
+- the number of users affected by the disruption of the essential service;
+- the duration of the incident;
+- the geographical spread with regard to the area affected by the incident.
 
 MISP provides taxonomies which could partially support describing NISD impact criteria e.g. for (a) the number of users affected the veris victim employee count taxonomy can be used, for (b) the duration of the incident, veris timeline taxonomy could be considered and for (c) the geographical spread, the taxonomy veris country can be used.
 
@@ -280,40 +155,11 @@ OESs and DSPs should take appropriate and proportionate technical and organisati
 
 ### How MISP can support OESs and DSPs with their incident notification requirements
 
-<table>
-	<tr>
-		<th>
-			CSIRTs network task from Annex I (2)
-		</th>
-		<th>
-			Supported by MISP?
-		</th>
-	</tr>
-	<tr>
-		<td>
-			Notify any incident having a “significant” or “substantial” impact to the NCA or to the CSIRT without undue delay.
-		</td>
-		<td>
-			<b>Yes</b>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			Notify impact of incident if OESs relies on a third-party DSP.
-		</td>
-		<td>
-			<b>Yes</b>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			Inform the public about individual incidents if required by the notified competent authority or CSIRT.
-		</td>
-		<td>
-			Not applicable
-		</td>
-	</tr>
-</table>
+|CSIRTs network task from Annex I (2)|Supported by MISP?|
+|--- |--- |
+|Notify any incident having a “significant” or “substantial” impact to the NCA or to the CSIRT without undue delay.|Yes|
+|Notify impact of incident if OESs relies on a third-party DSP.|Yes|
+|Inform the public about individual incidents if required by the notified competent authority or CSIRT.|Not applicable|
 
 ### Notify any incident having a “significant” or “substantial” impact to the NCA or to the CSIRT without undue delay.
 
@@ -321,10 +167,8 @@ Additionally to security requirements, OESs and DSPs have specific incident noti
 
 The distribution mechanism of MISP could facilitate such notification activities. However, the initial use case in MISP was to share to all organisations within a community or wider. Nevertheless, with the ‘sharing group’ functionality in MISP, it is possible to better control to what extent information is shared and to which community members. This can be beneficial, especially regarding sensitive or confidential events. As highlighted, MISP provides taxonomies which could partially support NISD impact criteria. Additionally to OESs criteria to measure whether an incident has a significant impact, DSPs need to take into account the following criteria:
 
-<ol type="a" start="4">
-<li>the extent of the disruption of the functioning of the service;</li>
-<li>the extent of the impact on economic and societal activities.</li>
-</ol>
+- the extent of the disruption of the functioning of the service;
+- the extent of the impact on economic and societal activities.
 
 However, these criteria for the moment are not directly supported by MISP.
 
@@ -352,11 +196,9 @@ If you have any question or suggestion about this topic, feel free to [contact u
 
 As an example on how MISP can be used as an incident notification tool in the context of the NISD. In this example, OESs and DSPs of country A must notify first the National Competent Authority (NCA) of country A. In this example, the NCA also acts as a Single Point of Contact (SPoC).
 
-<p align="center">
-<img src="./images/misp-nisd-notification.svg" alt="image" style="width: 100%;"/><br/>
+![Examples of notification configuration](./images/misp-nisd-notification.svg.png)
 
-<span><i>FIGURE 1: Examples of notification configuration</i></span>
-</p>
+*FIGURE 1: Examples of notification configuration*
 
 In the above figure, the MISP synchronisation (represented by each and every arrow) can be either one way or two ways depending on how MISP instances are connected between each other. In any case, the synchronisation between MISP instances of OESs and DSPs should at least allow the OESs and DSPs to push events to the NCA/SPoC MISP instance. Moreover, as clarified in Art. 14 (5), CSIRTs should provide follow-up information on the incident notified by the OESs and DSPs. In this case, a two ways synchronisation is preferable. The following section details the main steps of incident notification depicted in the above figure.
 
@@ -364,11 +206,9 @@ In the above figure, the MISP synchronisation (represented by each and every arr
 
 The OES or DSP notifies the NCAs in case of an incident having a significant impact. OESs or DSPs have several possibilities to report the MISP event representing the NIS incident:
 
-<ol type="a">
-<li>Use their own MISP instance synchronised with the NCA MISP instance to create the MISP event representing the NIS incident (if the OES or DSP has one) and synchronise it with the MISP instance of the NCA.</li>
-<li>Use the NCA MISP instance to create a MISP event representing the incident.</li>
-<li>If the OES or DSP does not want to use MISP, it can send the MISP event representing the NIS incident details by another communication channel and the NCA can add the MISP event in its MISP instance itself.</li>
-</ol>
+- Use their own MISP instance synchronised with the NCA MISP instance to create the MISP event representing the NIS incident (if the OES or DSP has one) and synchronise it with the MISP instance of the NCA.
+- Use the NCA MISP instance to create a MISP event representing the incident.
+- If the OES or DSP does not want to use MISP, it can send the MISP event representing the NIS incident details by another communication channel and the NCA can add the MISP event in its MISP instance itself.
 
 The OES or DSP has several possibilities in terms of [‘distribution settings’](https://github.com/MISP/misp-book/tree/master/using-the-system#creating-an-event) in MISP:
 * **Sharing group**: the OES or DSP can use a sharing group only including the NCA for example. This is the most likely approach. The MISP event representing the NIS incident will only be shared to the organisation members of the sharing group.
@@ -381,10 +221,8 @@ If the incident is sensitive, OESs or DSPs would most likely use a restrictive s
 
 The NCA in step 2 will decide to whom it wants to share the MISP event representing the NIS incident, including:
 
-<ol type="a">
-<li>Other Member State, e.g. SPoC of other member states. NCA or CSIRTs shall inform the other affected Member State(s) if the incident has a significant impact on the continuity of essential services in that Member State (Art. 14 (5)).</li>
-<li>The national CSIRT(s).</li>
-</ol>
+- Other Member State, e.g. SPoC of other member states. NCA or CSIRTs shall inform the other affected Member State(s) if the incident has a significant impact on the continuity of essential services in that Member State (Art. 14 (5)).
+- The national CSIRT(s).
 
 If the event was previously created by the OES or DSP within a restricted sharing group, the NCA would need to edit the event representing the incident in MISP to change its distribution setting. This action is only available to an "admin" user in MISP, therefore the NCA should use an admin role to handle the incident distribution. The NCA will be able to choose a sharing group more appropriate than the currently existing one, also including any other Member States which could be significantly impacted by the incident. The OES or DSP would be able to see the resulting sharing group ensuring transparency on the entities the NCA transfer the event to.
 
