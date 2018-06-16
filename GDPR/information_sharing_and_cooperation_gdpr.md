@@ -1,3 +1,15 @@
+---
+title: "Information sharing and cooperation enabled by GDPR"
+author: [CIRCL Computer Incident Response Center Luxembourg, MISP Project]
+date: 2018-06-16
+tags: [privacy, misp, information sharing, information exchange]
+titlepage: true
+toc-own-page: true
+number-sections: true
+titlepage-rule-color: EC2A3F
+colorlinks: true
+...
+
 
 # Information sharing and cooperation enabled by GDPR
 
@@ -17,7 +29,7 @@ The GDPR explains that roughly, in the processing of personal data there are con
 
 The concept of data controller and data processor in a sharing environment is not always trivial, but can be summarized in the below diagram, which shows how the process takes place between entities A and B. In the diagram, we take the assumption that both A and B are controllers and they are not acting on behalf of someone else.
 
-<img src="./misp-compliance-gdpr-peer-to-peer-pa.svg" alt="GDPR information sharing processing activities for a peer-to-peer network" style="width: 100%;"/>
+![GDPR information sharing processing activities for a peer-to-peer network](./misp-compliance-gdpr-peer-to-peer-pa.svg.png)
 
 *FIGURE 1: PROCESSING ACTIVITIES AND DATA CONTROLLER IN THE GENERAL CASE OF INFORMATION SHARING*
 
@@ -30,7 +42,7 @@ More generally, in a peer-to-peer network, all the peers are separate data contr
 
 Below is a use case of information sharing using the tool MISP:
 
-<img src="./misp-compliance-gdpr-misp-pa.svg" alt="GDPR information sharing processing activities for MISP" style="width: 100%;"/>
+![GDPR information sharing processing activities for MISP](misp-compliance-gdpr-misp-pa.svg.png)
 
 *FIGURE 2: PROCESSING ACTIVITIES AND DATA CONTROLLER IN THE SPECIFIC CASE OF SHARING INFORMATION WITH MISP PLATFORM*
 
@@ -56,9 +68,7 @@ It is important to notice here that the identification of a piece of information
 
 Having this in mind, the figure below illustrates the MISP categories of data that could be exchanged through MISP which may include personal data in some cases.
 
-<p align="center">
-  <img src="./misp-compliance-gdpr-personal-data.svg" alt="GDPR information sharing personal data in MISP per categories" style="width: 70%;"/>
-</p>
+![GDPR information sharing personal data in MISP per categories](./misp-compliance-gdpr-personal-data.svg.png)
 
 *FIGURE 3: EXAMPLE OF MISP ATTRIBUTE CATEGORIES POTENTIALLY INVOLVING PERSONAL DATA (NON-EXHAUSTIVE)*
 
@@ -90,9 +100,7 @@ The GDPR allow for six possibilities of legal grounds for a processing activity.
 
 For example, in the case of CSIRTs sharing information, the legal ground would most likely be either Art. 6(1)(f) **“legitimate interest”** (as mentioned in Recital 49), Art. 6(1)(c) **“compliance with legal obligation”** or Art. 6(1)(e) **“public interest”**. Private or internal CSIRTs monetizing their services would probably use legitimate interest as a legal ground while CSIRTs who need to comply with the Network and Information System Directive (NISD), and/or whose mandate is defined by Law, would most likely use “public interest”.
 
-<p align="center">
-  <img src="./misp-compliance-gdpr-grounds.svg" alt="GDPR grounds to process personal data" style="width: 70%;"/>
-</p>
+![GDPR grounds to process personal data](./misp-compliance-gdpr-grounds.pdf.png)
 
 *FIGURE 4: LEGAL GROUNDS FOR CSIRTs WHICH CAN ENABLE A DATA CONTROLLER OR PROCESSOR TO PROCESS PERSONAL DATA*
 
