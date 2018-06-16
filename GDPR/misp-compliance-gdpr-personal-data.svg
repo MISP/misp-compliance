@@ -14,8 +14,11 @@
    viewBox="0 0 178.01069 131.56144"
    version="1.1"
    id="svg5913"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="misp-compliance-gdpr-personal-data.svg">
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="misp-compliance-gdpr-personal-data.svg"
+   inkscape:export-filename="/home/adulau/git/misp-compliance/GDPR/misp-compliance-gdpr-personal-data.svg.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100">
   <defs
      id="defs5907">
     <clipPath
@@ -42,15 +45,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="599.6923"
+     inkscape:cx="428.47144"
      inkscape:cy="236.23202"
      inkscape:document-units="mm"
      inkscape:current-layer="g6728"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5910">
@@ -106,8 +109,8 @@
              id="tspan971">network</tspan></tspan></text>
       <path
          id="path6478"
-         d="m 235.32905,266.34712 c 0,-30.19781 24.51312,-54.72697 54.72697,-54.72697 30.22623,0 54.72697,24.52916 54.72697,54.72697 0,30.23281 -24.50074,54.72697 -54.72697,54.72697 -30.21385,0 -54.72697,-24.49416 -54.72697,-54.72697"
-         style="fill:none;stroke:#df2d38;stroke-width:3.93188715;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         d="m 235.41662,268.8725 c 0,-31.54297 25.60506,-57.16478 57.16478,-57.16478 31.57266,0 57.16478,25.62181 57.16478,57.16478 0,31.57953 -25.59212,57.16478 -57.16478,57.16478 -31.55972,0 -57.16478,-25.58525 -57.16478,-57.16478"
+         style="fill:none;stroke:#df2d38;stroke-width:4.10703278;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <text
          id="text6484"
@@ -198,8 +201,8 @@
              dx="0">IPs</tspan></tspan></text>
       <path
          id="path6516"
-         d="m 492.02503,49.897737 c 0,-43.7202548 35.47489,-79.209555 79.20956,-79.209555 43.76999,0 79.20957,35.4893002 79.20957,79.209555 0,43.773705 -35.43958,79.209563 -79.20957,79.209563 -43.73467,0 -79.20956,-35.435858 -79.20956,-79.209563"
-         style="fill:none;stroke:#df2d38;stroke-width:4.10057354;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         d="m 498.08845,45.307376 c 0,-41.7427537 37.2462,-75.626844 83.16461,-75.626844 45.95549,0 83.16463,33.8840903 83.16463,75.626844 0,41.793784 -37.20914,75.626844 -83.16463,75.626844 -45.91841,0 -83.16461,-33.83306 -83.16461,-75.626844"
+         style="fill:none;stroke:#df2d38;stroke-width:4.10557795;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <text
          id="text6522"
@@ -259,8 +262,8 @@
              dx="0">data</tspan></tspan></text>
       <path
          id="path6544"
-         d="m 510.98,207.83848 c 0,-38.47868 31.21495,-69.70208 69.70208,-69.70208 38.51794,0 69.70207,31.2234 69.70207,69.70208 0,38.54344 -31.18413,69.70207 -69.70207,69.70207 -38.48713,0 -69.70208,-31.15863 -69.70208,-69.70207"
-         style="fill:none;stroke:#df2d38;stroke-width:4.21789455;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
+         d="m 516.20876,205.81818 c 0,-41.72632 33.84952,-75.585 75.585,-75.585 41.76889,0 75.58498,33.85868 75.58498,75.585 0,41.79653 -33.81609,75.58498 -75.58498,75.58498 -41.73548,0 -75.585,-33.78845 -75.585,-75.58498"
+         style="fill:none;stroke:#df2d38;stroke-width:4.57388878;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <text
          id="text6550"
@@ -324,7 +327,7 @@
          clip-path="url(#clipEmfPath1)"
          style="fill:none;stroke:#000000;stroke-width:2.08179665px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
          inkscape:connector-curvature="0"
-         transform="matrix(1,0,0,1.2259378,0,-113.34249)" />
+         transform="matrix(1,0,0,1.2259378,-11.111678,-112.33234)" />
       <path
          id="path6574"
          d="m 304.74767,18.438674 c 0,-35.189956 28.59864,-63.848134 63.84813,-63.848134 35.27842,0 63.84813,28.658178 63.84813,63.848134 0,35.271601 -28.56971,63.848126 -63.84813,63.848126 -35.24949,0 -63.84813,-28.576525 -63.84813,-63.848126"
@@ -371,13 +374,13 @@
              id="tspan967">fraud</tspan></tspan></text>
       <text
          id="text6602"
-         y="385.28387"
-         x="212.93796"
+         y="375.18234"
+         x="84.648582"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:24px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            id="tspan6600"
-           y="385.28387"
-           x="212.93796"
+           y="375.18234"
+           x="84.648582"
            sodipodi:role="line"><tspan
              id="tspan6598"
              style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:24px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
@@ -385,13 +388,13 @@
              dx="0 0 0 0 0 0 0 0 0">GDPR is applicable</tspan></tspan></text>
       <text
          id="text6614"
-         y="385.28387"
-         x="494.6792"
+         y="375.18234"
+         x="473.466"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:24px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            id="tspan6612"
-           y="385.28387"
-           x="494.6792"
+           y="375.18234"
+           x="473.466"
            sodipodi:role="line"><tspan
              id="tspan6610"
              style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:24px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
