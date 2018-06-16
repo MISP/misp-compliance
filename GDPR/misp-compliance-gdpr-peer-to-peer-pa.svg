@@ -15,8 +15,11 @@
    viewBox="0 0 243.41629 98.505377"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="misp-compliance-gdpr-peer-to-peer-pa.svg">
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="misp-compliance-gdpr-peer-to-peer-pa.svg"
+   inkscape:export-filename="/home/adulau/git/misp-compliance/GDPR/misp-compliance-gdpr-peer-to-peer-pa.svg.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100">
   <defs
      id="defs2">
     <clipPath
@@ -384,16 +387,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="234.02633"
+     inkscape:zoom="0.93"
+     inkscape:cx="191.22112"
      inkscape:cy="302.48691"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -578,8 +581,8 @@
        inkscape:connector-curvature="0" />
     <path
        id="path1924"
-       d="m 78.002177,64.356971 h 71.940843 v 16.73361 H 78.002177 Z"
-       style="fill:none;stroke:#000000;stroke-width:0.26639119px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 78.011979,64.366773 H 161.02865 V 81.080779 H 78.011979 Z"
+       style="fill:none;stroke:#000000;stroke-width:0.28599614px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <text
        id="text1930"
@@ -633,8 +636,8 @@
        inkscape:connector-curvature="0" />
     <path
        id="path1946"
-       d="M -8.2271192,73.421771 H 44.822052 V 90.110954 H -8.2271192 Z"
-       style="fill:none;stroke:#000000;stroke-width:0.2587775px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -8.220427,73.428463 H 50.505324 V 90.104262 H -8.220427 Z"
+       style="fill:none;stroke:#000000;stroke-width:0.27216187px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <text
        id="text1952"
@@ -675,23 +678,23 @@
            dx="0">Data controller: Entity A</tspan></tspan></text>
     <path
        id="path1972"
-       d="m 183.74984,111.73223 v 16.69374 h 51.18283 v -16.69374 z"
+       d="m 175.21489,121.68967 v 16.69374 h 51.18283 v -16.69374 z"
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332"
        inkscape:connector-curvature="0" />
     <path
        id="path1974"
-       d="m 183.74984,111.73223 h 51.18283 v 16.69374 h -51.18283 z"
-       style="fill:none;stroke:#000000;stroke-width:0.25421941px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 175.2217,121.69648 h 56.85918 V 138.3766 H 175.2217 Z"
+       style="fill:none;stroke:#000000;stroke-width:0.26783642px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <text
        id="text1980"
-       y="116.6585"
-       x="186.31981"
+       y="126.61594"
+       x="177.78487"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          id="tspan1978"
-         y="116.6585"
-         x="186.31981"
+         y="126.61594"
+         x="177.78487"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88055563px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"><tspan
            id="tspan1976"
@@ -700,13 +703,13 @@
            dx="0">Processing Activity: </tspan></tspan></text>
     <text
        id="text1986"
-       y="116.6585"
-       x="221.2506"
+       y="126.61594"
+       x="212.71565"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.90278053px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          id="tspan1984"
-         y="116.6585"
-         x="221.2506"
+         y="126.61594"
+         x="212.71565"
          sodipodi:role="line"
          style="stroke-width:0.26458332"><tspan
            id="tspan1982"
@@ -715,13 +718,13 @@
            dx="0">Collect </tspan></tspan></text>
     <text
        id="text1992"
-       y="121.31917"
-       x="186.31981"
+       y="131.27661"
+       x="177.78487"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          id="tspan1990"
-         y="121.31917"
-         x="186.31981"
+         y="131.27661"
+         x="177.78487"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88055563px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"><tspan
            id="tspan1988"
@@ -730,13 +733,13 @@
            dx="0">and store information</tspan></tspan></text>
     <text
        id="text1998"
-       y="125.97985"
-       x="186.31981"
+       y="135.93729"
+       x="177.78487"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          id="tspan1996"
-         y="125.97985"
-         x="186.31981"
+         y="135.93729"
+         x="177.78487"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"><tspan
            id="tspan1994"
