@@ -16,8 +16,11 @@
    viewBox="0 0 229.2583 171.60898"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="misp-compliance-gdpr-misp-pa.svg">
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="misp-compliance-gdpr-misp-pa.svg"
+   inkscape:export-filename="/home/adulau/git/misp-compliance/GDPR/misp-compliance-gdpr-misp-pa.svg.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100">
   <defs
      id="defs2">
     <linearGradient
@@ -231,15 +234,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="422.07027"
+     inkscape:cx="250.84941"
      inkscape:cy="353.66295"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -269,8 +272,8 @@
      transform="translate(-5.5521094,-23.462714)">
     <path
        id="path3727"
-       d="m 56.446838,171.02316 h 39.003915 v 22.7028 H 56.446838 Z"
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.8, 1.8;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 50.328069,171.86414 h 45.661232 v 22.67838 H 50.328069 Z"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.32441977;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.94651847, 1.94651847;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <path
        id="path3823"
@@ -868,79 +871,75 @@
            dy="0"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.17499995px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.26458332"
            id="tspan4051">MISP event</tspan></tspan></text>
-    <g
-       id="g6742"
-       transform="translate(-4.2333335,-7.4083337)">
-      <path
-         id="path4085"
-         d="M 10.441719,82.658089 V 104.01242 H 61.666943 V 82.658089 Z"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path4087"
-         d="M 9.9113733,83.223574 H 61.659512 V 103.97169 H 9.9113733 Z"
-         style="fill:none;stroke:#000000;stroke-width:0.25186074px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-      <text
-         id="text4093"
-         y="88.107002"
-         x="12.492154"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88055563px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
-           id="tspan4091"
-           y="88.107002"
-           x="12.492154"
-           sodipodi:role="line"><tspan
-             id="tspan4089"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88055563px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.26458332"
-             dy="0"
-             dx="0">Processing Activity: Share </tspan></tspan><tspan
-           id="tspan1384"
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.28000909"
+       d="M 6.2083855,75.249755 V 96.604086 H 63.580809 V 75.249755 Z"
+       id="path4085" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.26990625px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 6.5443674,75.824263 H 66.025277 v 20.73007 H 6.5443674 Z"
+       id="path4087" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="11.154056"
+       y="80.698669"
+       id="text4093"><tspan
+         sodipodi:role="line"
+         x="11.154056"
+         y="80.698669"
+         id="tspan4091"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88055563px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"><tspan
+           dx="0"
+           dy="0"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88055563px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.26458332"
-           y="92.957695"
-           x="12.492154"
-           sodipodi:role="line">information </tspan></text>
-      <text
-         id="text4111"
-         y="97.428436"
-         x="12.492154"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
-           id="tspan4109"
-           y="97.428436"
-           x="12.492154"
-           sodipodi:role="line"><tspan
-             id="tspan4107"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.26458332"
-             dy="0"
-             dx="0">Data controller: Entity B </tspan></tspan></text>
-      <text
-         id="text4123"
-         y="102.0891"
-         x="12.492154"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88055563px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
-           id="tspan4121"
-           y="102.0891"
-           x="12.492154"
-           sodipodi:role="line"><tspan
-             id="tspan4119"
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88055563px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.26458332"
-             dy="0"
-             dx="0">Recipient: Entity A</tspan></tspan></text>
-    </g>
+           id="tspan4089">Processing Activity: Share </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="11.154056"
+         y="85.549362"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88055563px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.26458332"
+         id="tspan1384">information </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="9.4695768"
+       y="90.020103"
+       id="text4111"><tspan
+         sodipodi:role="line"
+         x="9.4695768"
+         y="90.020103"
+         id="tspan4109"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.26458332"
+           id="tspan4107">Data controller: Entity B </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="18.203671"
+       y="94.680771"
+       id="text4123"><tspan
+         sodipodi:role="line"
+         x="18.203671"
+         y="94.680771"
+         id="tspan4121"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88055563px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88055563px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.26458332"
+           id="tspan4119">Recipient: Entity A</tspan></tspan></text>
     <path
        inkscape:connector-curvature="0"
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332"
-       d="m 166.17109,28.3545 v 16.693742 h 51.18285 V 28.3545 Z"
+       d="M 166.17109,29.690848 V 46.38459 h 51.18285 V 29.690848 Z"
        id="path4125" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#000000;stroke-width:0.25909996px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 166.17353,28.35694 h 53.18249 v 16.688862 h -53.18249 z"
+       style="fill:none;stroke:#000000;stroke-width:0.29243097px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 166.1902,28.373606 h 58.49455 V 47.701832 H 166.1902 Z"
        id="path4127" />
     <text
        xml:space="preserve"
@@ -978,7 +977,7 @@
            dx="0"
            dy="0"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.26458332"
-           id="tspan4147">Data controller: Entity A </tspan></tspan></text>
+           id="tspan4147">Data controller: Entit</tspan></tspan></text>
     <path
        inkscape:connector-curvature="0"
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332"
@@ -986,27 +985,28 @@
        id="path4159" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#000000;stroke-width:0.25161341px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 159.92795,75.190155 h 51.74839 v 20.748339 h -51.74839 z"
-       id="path4161" />
+       style="fill:none;stroke:#000000;stroke-width:0.28085944px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 159.94257,75.204778 h 56.21793 6.72654 V 96.45841 h -62.94447 z"
+       id="path4161"
+       sodipodi:nodetypes="cccccc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="162.50256"
-       y="79.932098"
+       y="79.39756"
        id="text4167"><tspan
          sodipodi:role="line"
          x="162.50256"
-         y="79.932098"
+         y="79.39756"
          id="tspan4165"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88055563px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"><tspan
            dx="0"
            dy="0"
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88055563px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.26458332"
-           id="tspan4163">Processing Activity: Share </tspan></tspan><tspan
+           id="tspan4163">Processing Activity: Share</tspan></tspan><tspan
          sodipodi:role="line"
          x="162.50256"
-         y="84.782791"
+         y="84.248253"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88055563px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.26458332"
          id="tspan1416"><tspan
            style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88055563px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
@@ -1125,11 +1125,6 @@
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332"
        d="m 8.0086483,170.11401 v 16.69374 H 59.191499 v -16.69374 z"
        id="path4199" />
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:none;stroke:#000000;stroke-width:0.25421941px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 8.0086483,169.91664 H 59.191499 v 16.69373 H 8.0086483 Z"
-       id="path4201" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1172,8 +1167,8 @@
        id="path4233" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#000000;stroke-width:0.25421941px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 163.35482,169.91663 h 51.22521 v 16.69374 h -51.22521 z"
+       style="fill:none;stroke:#000000;stroke-width:0.27135682px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 163.36339,169.9252 h 58.42435 v 16.6766 h -58.42435 z"
        id="path4235" />
     <text
        xml:space="preserve"
@@ -1399,6 +1394,11 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88055563px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.26458332"
            dy="0"
            dx="0">Data controller: Entity A</tspan></tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.2664063px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 8.0147417,169.92273 H 64.263527 v 16.68155 H 8.0147417 Z"
+       id="path4201" />
   </g>
   <g
      inkscape:groupmode="layer"
