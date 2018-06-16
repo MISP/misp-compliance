@@ -1,3 +1,14 @@
+---
+title: "MISP as supporting platform for sharing information, following ISO/IEC 27010:2015"
+author: [CIRCL Computer Incident Response Center Luxembourg, MISP Project]
+date: 2018-06-16
+tags: [ISO/IEC 27010, misp, information sharing, information exchange, ISO 27010]
+titlepage: true
+toc-own-page: true
+number-sections: true
+titlepage-rule-color: EC2A3F
+colorlinks: true
+...
 
 # MISP as supporting platform for sharing information, following ISO/IEC 27010:2015
 
@@ -28,61 +39,22 @@ MISP is a free and open source platform for sharing, storing and correlating cyb
 
 MISP is a tool specifically made to be used by information sharing communities, even when only some members of an organisation are permitted to access the information shared in MISP. As a tool, MISP includes data model objects such as "organisation" and "user" (of an organisation). The figure below highlights the mechanism to share event with MISP amongst organisation in the same community.
 
-<p align="center">
-<img src="./images/misp-compliance-iso-concepts.svg" alt="image" style="width: 70%;"/><br/>
+![MISP compliance against ISO/IEC 27010:2015](./images/misp-compliance-iso-concepts.png)
 
-<span><i>FIGURE 1: Illustration of MISP organisations and community interactions</i></span>
-</p>
+*FIGURE 1: Illustration of MISP organisations and community interactions*
 
 The concept presented in the figure above can be explained and match with key concepts of the ISO/IEC 27010:2015 standard as described in the table below.
 
-<table style="width:100%">
-  <tr>
-    <th>ISO/IEC 27010:2015 key concepts</th>
-    <th>MISP data model representing the concepts</th> 
-    <th>Related definition in <a href="https://www.iso.org/obp/ui/#iso:std:iso-iec:27000:ed-5:v1:en"> ISO/IEC 27000:2018</a></th>
-  </tr>
-  <tr>
-    <td><b>Information sharing community</b></td>
-    <td>The concept of community is closely related to the concept of MISP server (also called MISP instance). A MISP server is a specific instance of the MISP software, running on a computer, usually a server. A MISP server can include multiple organisations. A <b>MISP community</b> includes all organisations on a MISP server and organisations running MISP servers that synchronise with this server.</td> 
-    <td>3.34 information sharing community</td>
-  </tr>
-  <tr>
-    <td><b>Organization</b></td>
-    <td>A <b>MISP organization</b> represent an organisation in the community.</td> 
-    <td>3.50 organization</td>
-  </tr>
-<tr>
-    <td><b>Member of an organisation</b></td>
-    <td><b>MISP users</b> represent organisation members.</td> 
-    <td>Not covered in the standard.</td>
-  </tr>
-<tr>
-    <td><b>Information exchange types (e.g. "alerts and warnings" and "incident handling")</b></td>
-    <td><b>MISP events</b> are the smallest unit that can be shared in MISP. Events can be enrich with "tags", such as tags integrates external and broadly used protocols and standards such as TLD (Traffic Lights Protocol) and MISP galaxies which enable a deeper analysis and categorisation of events. Events are composed of <b>MISP attributes</b>, usually representing indicators of compromise (e.g. IP addresses, domain names etc.). Attributes are defined structure that have a limited set of <a href="http://www.misp-project.org/datamodels/#misp-core-format"> type and categories</a>. Attributes can be aggregated into MISP objects.</td> 
-    <td>3.21 event</td>
-  </tr>
-<tr>
-    <td><b>Supporting entities</b></td>
-    <td>The centralized supporting entity in a MISP community can be interpreted as being the entity (or organisation) operating the MISP instance (also called MISP server). The entity operating the MISP instance decides who will join the community and can attribute rights to organisation on the MISP instance (e.g. right to synchronise a MISP server)</td> 
-    <td>3.76 trusted information communication entity</td>
-  </tr>
-<tr>
-    <td><b>Source</b></td>
-    <td>In MISP, the source of the event is indicated in the event detail in the field "Orgc". The source of an event stay the same even if the event is transferred to other communities.</td> 
-    <td>Not covered in the standard.</td>
-  </tr>
-<tr>
-    <td><b>Originator</b></td>
-    <td>In MISP, the originator of an event is indicated in the event detail in the field "Org". If the source is in the same MISP community than a recipient, the source (Orgc) and the originator (Org) of an event will be the same for this recipient. If the source of an event (Orgc) is not in the same community than a recipient (e.g. the event has been pushed to another MISP community because its sharing model is "All communities" or "Connected communities"), then the source (Orgc) and the originator will differ. In that case, the originator (Org) would appear as the organisation synchronising the MISP instances (for an illustration, refer to event e' in the "FIGURE 1" above). </td> 
-    <td>Not covered in the standard.</td>
-  </tr>
-<tr>
-    <td><b>Recipient</b></td>
-    <td>In MISP, the recipients of an event depends on the sharing model the originator choose for the event. MISP sharing model is flexible and include <a href="https://github.com/MISP/misp-book/tree/master/using-the-system"> five sharing models </a> allowing, for example, to only share an event with one organisation, one community or a couple of chosen organisations in a community.</td> 
-    <td>Not covered in the standard.</td>
-  </tr>
-</table>
+|ISO/IEC 27010:2015 key concepts|MISP data model representing the concepts|Related definition in  ISO/IEC 27000:2018|
+|--- |--- |--- |
+|Information sharing community|The concept of community is closely related to the concept of MISP server (also called MISP instance). A MISP server is a specific instance of the MISP software, running on a computer, usually a server. A MISP server can include multiple organisations. A MISP community includes all organisations on a MISP server and organisations running MISP servers that synchronise with this server.|3.34 information sharing community|
+|Organization|A MISP organization represent an organisation in the community.|3.50 organization|
+|Member of an organisation|MISP users represent organisation members.|Not covered in the standard.|
+|Information exchange types (e.g. "alerts and warnings" and "incident handling")|MISP events are the smallest unit that can be shared in MISP. Events can be enrich with "tags", such as tags integrates external and broadly used protocols and standards such as TLD (Traffic Lights Protocol) and MISP galaxies which enable a deeper analysis and categorisation of events. Events are composed of MISP attributes, usually representing indicators of compromise (e.g. IP addresses, domain names etc.). Attributes are defined structure that have a limited set of  type and categories. Attributes can be aggregated into MISP objects.|3.21 event|
+|Supporting entities|The centralized supporting entity in a MISP community can be interpreted as being the entity (or organisation) operating the MISP instance (also called MISP server). The entity operating the MISP instance decides who will join the community and can attribute rights to organisation on the MISP instance (e.g. right to synchronise a MISP server)|3.76 trusted information communication entity|
+|Source|In MISP, the source of the event is indicated in the event detail in the field "Orgc". The source of an event stay the same even if the event is transferred to other communities.|Not covered in the standard.|
+|Originator|In MISP, the originator of an event is indicated in the event detail in the field "Org". If the source is in the same MISP community than a recipient, the source (Orgc) and the originator (Org) of an event will be the same for this recipient. If the source of an event (Orgc) is not in the same community than a recipient (e.g. the event has been pushed to another MISP community because its sharing model is "All communities" or "Connected communities"), then the source (Orgc) and the originator will differ. In that case, the originator (Org) would appear as the organisation synchronising the MISP instances (for an illustration, refer to event e' in the "FIGURE 1" above).|Not covered in the standard.|
+|Recipient|In MISP, the recipients of an event depends on the sharing model the originator choose for the event. MISP sharing model is flexible and include  five sharing models  allowing, for example, to only share an event with one organisation, one community or a couple of chosen organisations in a community.|Not covered in the standard.|
 
 ### Suitable flexibility and accessibility
 
@@ -99,139 +71,33 @@ ISO/IEC 27010:2015 complements ISO/IEC 27001:2005 by providing additional or aug
 
 MISP is a tool, a piece of software, not an Information Security and Management System by itself. As such, not all the new controls or augmented controls in ISO/IEC 27010:2015 can be applicable to MISP. For this article, the controls that can, partially can or cannot apply to MISP are presented in the table below.
 
-
-<table style="width:100%">
-  <tr>
-    <th>New controls of controls augmented by ISO/IEC 27010:2015</th>
-    <th>Applicable to MISP</th> 
-    <th>References to relevant MISP features</th>
-  </tr>
-  <tr>
-    <td>5.1.1 Policies for information security</td>
-    <td>Partially</td> 
-    <td><a href="#(5)">(5) Information security policies</a></td>
-  </tr>
-  <tr>
-    <td>5.1.2 Review of the policies for information security</td>
-    <td>No</td> 
-    <td>N/A</td>
-  </tr>
-<tr>
-    <td>7.1.1 Screening</td>
-    <td>No</td> 
-    <td>N/A</td>
-  </tr>
-<tr>
-    <td>8.1.3 Acceptable use of assets</td>
-    <td>Partially</td> 
-    <td><a href="#(8)">(8) Asset management</a></td>
-  </tr>
-<tr>
-    <td>8.2.1 Classification of information</td>
-    <td>Yes</td> 
-    <td><a href="#(8)">(8) Asset management</a></td>
-  </tr>
-<tr>
-    <td>8.4.1 Information dissemination</td>
-    <td>Yes</td> 
-    <td><a href="#(8)">(8) Asset management</a></td>
-  </tr>
-<tr>
-    <td>8.4.2 Information disclaimers</td>
-    <td>Yes</td> 
-    <td><a href="#(8)">(8) Asset management</a></td>
-  </tr>
-<tr>
-    <td>8.4.3 Information credibility</td>
-    <td>Yes</td> 
-    <td><a href="#(8)">(8) Asset management</a></td>
-  </tr>
-<tr>
-    <td>8.4.4 Information sensitivity reduction</td>
-    <td>Yes</td> 
-    <td><a href="#(8)">(8) Asset management</a></td>
-  </tr>
-<tr>
-    <td>8.4.5 Anonymous source protection</td>
-    <td>Yes</td> 
-    <td><a href="#(8)">(8) Asset management</a></td>
-  </tr>
-<tr>
-    <td>8.4.6 Anonymous recipient protection</td>
-    <td>Yes</td> 
-    <td><a href="#(8)">(8) Asset management</a></td>
-  </tr>
-<tr>
-    <td>8.4.7 Onwards release authority</td>
-    <td>Yes</td> 
-    <td><a href="#(8)">(8) Asset management</a></td>
-  </tr>
-<tr>
-    <td>10.1.1 Policy on the use of cryptographic controls</td>
-    <td>Yes</td> 
-    <td><a href="#(10)">(10) Cryptography</a></td>
-  </tr>
-<tr>
-    <td>12.2.1 Controls against malware</td>
-    <td>No</td> 
-    <td>N/A</td>
-  </tr>
-<tr>
-    <td>12.4.1 Event logging</td>
-    <td>Yes</td> 
-    <td><a href="#(12)">(12) Operations security</a></td>
-  </tr>
-<tr>
-    <td>12.7.2 Community audit rights</td>
-    <td>No</td> 
-    <td>N/A</td>
-  </tr>
-<tr>
-    <td>13.2.2 Agreements on information transfer</td>
-    <td>Partially</td> 
-    <td><a href="#(13)">(13) Information transfer</a></td>
-  </tr>
-<tr>
-    <td>13.2.3 Electronic messaging</td>
-    <td>Yes</td>
-    <td><a href="#suitable-data-model">Alternative methods to electronic messaging are part of the MISP synchronisation protocol (e.g. air-gap exchange protocol)</a></td>
-  </tr>
-<tr>
-    <td>15.1.2 Addressing security within supplier agreements</td>
-    <td>No</td> 
-    <td>N/A</td>
-  </tr>
-<tr>
-    <td>16.1.2 Reporting information security events</td>
-    <td>Partially</td> 
-    <td><a href="#(16)">(16) Information security incident management</a></td>
-  </tr>
-<tr>
-    <td>16.1.6 Learning from information security incidents</td>
-    <td>Yes</td> 
-    <td><a href="#(16)">(16) Information security incident management</a></td>
-  </tr>
-<tr>
-    <td>16.1.8 Early warning system</td>
-    <td>Yes</td> 
-    <td><a href="#(16)">(16) Information security incident management</a></td>
-  </tr>
-<tr>
-    <td>17.1.1 Planning information security continuity</td>
-    <td>No</td> 
-    <td>N/A</td>
-  </tr>
-<tr>
-    <td>18.1.1 Identification of applicable legislation and contractual requirements</td>
-    <td>Partially</td> 
-    <td><a href="#(18)">(18) Compliance</a></td>
-  </tr>
-<tr>
-    <td>18.1.6 Liability to the information sharing community</td>
-    <td>No</td> 
-    <td>N/A</td>
-  </tr>
-</table>
+|New controls of controls augmented by ISO/IEC 27010:2015|Applicable to MISP|References to relevant MISP features|
+|--- |--- |--- |
+|5.1.1 Policies for information security|Partially|(5) Information security policies|
+|5.1.2 Review of the policies for information security|No|N/A|
+|7.1.1 Screening|No|N/A|
+|8.1.3 Acceptable use of assets|Partially|(8) Asset management|
+|8.2.1 Classification of information|Yes|(8) Asset management|
+|8.4.1 Information dissemination|Yes|(8) Asset management|
+|8.4.2 Information disclaimers|Yes|(8) Asset management|
+|8.4.3 Information credibility|Yes|(8) Asset management|
+|8.4.4 Information sensitivity reduction|Yes|(8) Asset management|
+|8.4.5 Anonymous source protection|Yes|(8) Asset management|
+|8.4.6 Anonymous recipient protection|Yes|(8) Asset management|
+|8.4.7 Onwards release authority|Yes|(8) Asset management|
+|10.1.1 Policy on the use of cryptographic controls|Yes|(10) Cryptography|
+|12.2.1 Controls against malware|No|N/A|
+|12.4.1 Event logging|Yes|(12) Operations security|
+|12.7.2 Community audit rights|No|N/A|
+|13.2.2 Agreements on information transfer|Partially|(13) Information transfer|
+|13.2.3 Electronic messaging|Yes|Alternative methods to electronic messaging are part of the MISP synchronisation protocol (e.g. air-gap exchange protocol)|
+|15.1.2 Addressing security within supplier agreements|No|N/A|
+|16.1.2 Reporting information security events|Partially|(16) Information security incident management|
+|16.1.6 Learning from information security incidents|Yes|(16) Information security incident management|
+|16.1.8 Early warning system|Yes|(16) Information security incident management|
+|17.1.1 Planning information security continuity|No|N/A|
+|18.1.1 Identification of applicable legislation and contractual requirements|Partially|(18) Compliance|
+|18.1.6 Liability to the information sharing community|No|N/A|
 
 The below section highlights clarifications on which MISP features enables an easy implementation of ISO/IEC 27010:2015 controls applicable to MISP.
 
@@ -249,95 +115,20 @@ The standard suggests that information should be classified in terms of legal re
 
 MISP has asset management tools build into it. For example, taxonomies can be used in MISP in order to classify events, indicators and threats. For example, one of the taxonomies included in MISP is the Admiralty Scale (also called the NATO System), that ranks the reliability of a source and the credibility of an information. Examples of taxonomies that can be used to classified events in MISP can be found below:
 
-<table style="width:100%">
-  <tr>
-    <th>ISO/IEC 27010:2015 classification requirements</th>
-    <th>Examples of taxonomies and/or features integrated in MISP (non-exhaustive)</th>
-  </tr>
-  <tr>
-    <td><b>Legal requirements</b> (8.2.1)</td>
-    <td>
-		<ul>
-		  <li>No taxonomies are yet integrated. It is however possible to add custom taxonomy in MISP.</li>
-		</ul>
-	</td> 
-  </tr>
-  <tr>
-    <td><b>Value</b> (8.2.1)</td>
-    <td>
-	<ul>
-	  <li>In some cases, the value of threat intelligence depends on the quality of the classification. A wide range of classifications is available for an event in MISP, for example, <a href="https://www.misp-project.org/taxonomies.html#_circl">incident classification or topic taxonomies</a>.</li>
-	  <li>Value of the information can also be determined by the <a href="https://www.misp-project.org/taxonomies.html#_cssa"> CSSA agreed sharing taxonomy</a>, for example, the 'sharing-class' indicates whether the shared information has been validated by a human prior to sharing.</li>
-	</ul>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Credibility</b> (8.2.1) and (8.4.3)</td>
-    <td>
-		<ul>
-			<li>The <a href="https://www.misp-project.org/taxonomies.html#_admiralty_scale">Admiralty Scale taxonomy</a> can be used to measure the credibility of an event.</li>
-			<li><a href="https://www.misp-project.org/taxonomies.html#_analyst_assessment"> The analyst experience taxonomy</a> can be used to assess the credibility of an analysis of an event.</li>
-			<li>The <a href="https://www.misp-project.org/taxonomies.html#_estimative_language">likelihood-probability</a> taxonomy can also be used to measure the credibility of an event.</li>
-			<li><a href="http://www.misp-project.org/features.html">The correlation feature and sightings</a> can also help assessing the credibility of an event.</li>
-			<li><a href="https://www.circl.lu/doc/misp/administration/#whitelisting-an-address">Whitelist</a> and <a href="https://github.com/MISP/misp-warninglists">Warning lists</a> improve false positive detection.</li>
-		</ul>
-	</td> 
-  </tr>
-<tr>
-    <td><b>Priority</b> (8.2.1)</td>
-    <td>
-		<ul>
-		  <li>MISP integrates <a href="https://www.misp-project.org/taxonomies.html#_priority_level">six levels of priority aligned with NCCIC, DHS, and the CISS</a>.</li>
-		</ul>
-	</td>  
-  </tr>
-<tr>
-    <td><b>Criticality</b> (8.2.1)</td>
-	<td>
-		<ul>
-		  <li><a href="https://www.circl.lu/doc/misp/create-event-report/">"Threat Level" of a MISP event</a> indicates the level of criticality.</li>
-	      <li>The <a href="https://www.misp-project.org/taxonomies.html#_impact_overall_rating">impact overall rating</a> taxonomy.</li>
-          <li>The <a href="https://www.misp-project.org/taxonomies.html#_victim_employee_count">victims employee count</a> taxonomy.</li>
-		</ul>
-	</td>
-  </tr>
-<tr>
-    <td><b>Sensitivity</b> (8.2.1)</td>
-	<td>
-		<ul>
-		  <li><a href="https://www.misp-project.org/taxonomies.html#_nato">NATO classification</a>.</li>
-		</ul>
-	</td>
-  </tr>
-<tr>
-    <td><b>Dissemination markings</b> (8.4.1)</td>
-	<td>
-		<ul>
-		  <li><a href="https://www.misp-project.org/taxonomies.html#_tlp">Traffic Light Protocol (TLP) taxonomy</a>.</li>
-		  <li>Different level of <a href="https://github.com/MISP/misp-book/tree/master/using-the-system">sharing model</a> can be used, restricting the propagation of events.</li>
-		</ul>
-	</td>
-  </tr>
-<tr>
-    <td><b>Information disclaimer</b> (8.4.2)</td>
-	<td>
-		<ul>
-		  <li>There is no specific field or free text available at the event level in MISP to add a custom disclaimer to list any special requirements to follow by the recipients in addition to the normal information marking. However, it is possible to add custom taxonomies in MISP. Moreover, as explained in the two following points, it is possible to contact the reporter or ask for clarification.</li>
-		  <li>In MISP it is possible to <a href="https://www.circl.lu/doc/misp/sharing/#contact-a-reporter">contact the reporter</a> of an event to ask for clarification.</li>
-		  <li>For each event, an <a href="https://www.circl.lu/doc/misp/using-the-system/#general-event-information">'Event Discussion Thread'</a> can also be used to ask for clarification.</li>
-		</ul>
-	</td>
-  </tr>
-<tr>
-    <td><b>Sensitivity reduction</b> (8.4.4)</td>
-	<td>
-		<ul>
-		  <li>Sightings in MISP can be used to evaluate the value of an attribute over time. Especially sightings of type <a href="http://www.misp.software/2017/02/16/Sighting-The-Next-Level.html">"Expiration"</a> can be added to an attribute to indicate that the attribute has lost value (e.g. URLs which have been cleaned after some time).</li>
-		  <li>The MISP <a href="https://www.misp-project.org/taxonomies.html#_infrastructure_state">infrastructure-state taxonomy</a> can also indicate if the adversary infrastructure at the event or attribute level is still active or is down.</li>
-		</ul>
-	</td>
-  </tr>
-</table>
+|ISO/IEC 27010:2015 classification requirements|Examples of taxonomies and/or features integrated in MISP (non-exhaustive)|
+|--- |--- |
+|Legal requirements (8.2.1)|No taxonomies are yet integrated. It is however possible to add custom taxonomy in MISP.|
+|Value (8.2.1)|In some cases, the value of threat intelligence depends on the quality of the classification. A wide range of classifications is available for an event in MISP, for example, incident classification or topic taxonomies.
+  Value of the information can also be determined by the  CSSA agreed sharing taxonomy, for example, the 'sharing-class' indicates whether the shared information has been validated by a human prior to sharing.|
+|Credibility (8.2.1) and (8.4.3)|The Admiralty Scale taxonomy can be used to measure the credibility of an event.  The analyst experience taxonomy can be used to assess the credibility of an analysis of an event.  The likelihood-probability taxonomy can also be used to measure the credibility of an event.  The correlation feature and sightings can also help assessing the credibility of an event.  Whitelist and Warning lists improve false positive detection.|
+|Priority (8.2.1)|MISP integrates six levels of priority aligned with NCCIC, DHS, and the CISS.|
+|Criticality (8.2.1)|"Threat Level" of a MISP event indicates the level of criticality.  The impact overall rating taxonomy.  The victims employee count taxonomy.|
+|Sensitivity (8.2.1)|NATO classification.|
+|Dissemination markings (8.4.1)|Traffic Light Protocol (TLP) taxonomy.  Different level of sharing model can be used, restricting the propagation of events.|
+|Information disclaimer (8.4.2)|There is no specific field or free text available at the event level in MISP to add a custom disclaimer to list any special requirements to follow by the recipients in addition to the normal information marking. However, it is possible to add custom taxonomies in MISP. Moreover, as explained in the two following points, it is possible to contact the reporter or ask for clarification.
+	  In MISP it is possible to contact the reporter of an event to ask for clarification.  For each event, an 'Event Discussion Thread' can also be used to ask for clarification.|
+|Sensitivity reduction (8.4.4)|Sightings in MISP can be used to evaluate the value of an attribute over time. Especially sightings of type "Expiration" can be added to an attribute to indicate that the attribute has lost value (e.g. URLs which have been cleaned after some time).  The MISP infrastructure-state taxonomy can also indicate if the adversary infrastructure at the event or attribute level is still active or is down.|
+
 
 MISP also includes a feature to protect the anonymity of the source and the recipient of the information in the community (controls 8.4.5 and 8.4.6). With the MISP [delegation](https://www.circl.lu/doc/misp/delegation/) feature, an organisation can ask another organisation in the same community to publish its own event in order to remain anonymous. In a MISP instance, it is normally possible to consult the list of all organisations in the community. However, the operator of the MISP instance (in other words, the supporting entity) has the possibility to hide this list (enabled by the option “MISP.showorg”) ensuring anonymity of all recipients (i.e. organisations) in a community.
 
