@@ -43,7 +43,7 @@ The [Malware Information Sharing and Threat Intelligence Sharing Platform (MISP)
 
 # Contributing
 
-If you see any errors in the documents or would like to propose changes or updates, feel free to open an issue.
+If you see any errors in the documents or if you would like to propose changes or updates, feel free to open an issue.
 
 You can also directly update the documents by forking the project and then update the documents and finally do a pull-request.
 
