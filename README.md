@@ -41,6 +41,28 @@ The [Malware Information Sharing and Threat Intelligence Sharing Platform (MISP)
 
 - [Document in Markdown format](./NISD/how-misp-enables-NISD-stakeholders-perform-key-activities.md) [PDF](./NISD/how-misp-enables-NISD-stakeholders-perform-key-activities.pdf)
 
+# Guidelines to setting up an information sharing community such as an ISAC or ISAO
+
+The objective of this guideline (this document) is to **describe the practical aspects of setting up a new information sharing community**, such as an Information Sharing and Analysis Centre
+ (ISAC) or an Information Sharing and Analysis Organisation (ISAO). In this guideline, we will refer to individuals or organisations that intend to set up a sharing community as "you" or the
+ "operator".
+
+Relevant research has already been conducted and published by organisations such as the European Union Agency for Network and Information Security (ENISA) and the ISAO Standards Organisation
+. Our guideline provides **practical best practices** to set up an information sharing community based on feedback and experience from existing information sharing communities.
+
+This guideline is focused around the [Open Source Threat Intelligence Sharing platform (MISP)](https://www.misp-project.org/) used in support on information sharing activities.
+
+
+# Guidelines to setting up an information sharing community such as an ISAC or ISAO
+
+The objective of this guideline (this document) is to **describe the practical aspects of setting up a new information sharing community**, such as an Information Sharing and Analysis Centre (ISAC) or an Information Sharing and Analysis Organisation (ISAO). In this guideline, we will refer to individuals or organisations that intend to set up a sharing community as "you" or the "operator".
+
+Relevant research has already been conducted and published by organisations such as the European Union Agency for Network and Information Security (ENISA) and the ISAO Standards Organisation. Our guideline provides **practical best practices** to set up an information sharing community based on feedback and experience from existing information sharing communities.
+
+This guideline is focused around the [Open Source Threat Intelligence Sharing platform (MISP)](https://www.misp-project.org/) used in support on information sharing activities.
+
+- [Document in Markdown format](https://github.com/MISP/misp-compliance/blob/master/setting-up-ISACs/guidelines_to_set-up_an_ISAC.md) [PDF](https://www.x-isac.org/assets/images/guidelines_to_set-up_an_ISAC.pdf)
+
 # Contributing
 
 If you see any errors in the documents or if you would like to propose changes or updates, feel free to open an issue.
