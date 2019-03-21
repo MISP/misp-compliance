@@ -14,7 +14,7 @@ The [Malware Information Sharing and Threat Intelligence Sharing Platform (MISP)
 
 Information sharing communities are enabled using tools like MISP. As a Computer Security Incident Response Team for the private sector communes and non-governmental entities in Luxembourg, [CIRCL](https://www.circl.lu/) has created and operates several communities to automate information sharing at national, European and international levels.
 
-- [Document in Markdown format](./GDPR/information_sharing_and_cooperation_gdpr.md) [PDF](./GDPR/information_sharing_and_cooperation_gdpr.pdf)
+- [Document in Markdown format](./GDPR/information_sharing_and_cooperation_gdpr.md) | [PDF](./GDPR/information_sharing_and_cooperation_gdpr.pdf)
 
 ## MISP as supporting platform for sharing information, following ISO/IEC 27010:2015
 
@@ -29,7 +29,7 @@ Standard ISO/IEC 27010 (hereafter, the standard) is particularly relevant for MI
 
 The standard is applicable to all forms of exchange and sharing of sensitive information, both public and private, nationally and internationally, within the same industry or market sector or between sectors. In particular, it may be applicable to information exchanges and sharing relating to the provision, maintenance and protection of an organisation or nation state's critical infrastructures. It is designed to support the creation of trust when exchanging and sharing sensitive information, thereby encouraging the international growth of information sharing communities.
 
-- [Document in Markdown format](./ISO_IEC_27010/misp-sharing-information-following-ISO-IEC-27010.md) [PDF](./ISO_IEC_27010/misp-sharing-information-following-ISO-IEC-27010.pdf)
+- [Document in Markdown format](./ISO_IEC_27010/misp-sharing-information-following-ISO-IEC-27010.md) | [PDF](./ISO_IEC_27010/misp-sharing-information-following-ISO-IEC-27010.pdf)
 
 ## How MISP enables stakeholders identified by the NISD to perform key activities
 
@@ -39,7 +39,7 @@ including online marketplaces, online search engines and cloud services. Further
 
 The [Malware Information Sharing and Threat Intelligence Sharing Platform (MISP)](https://www.misp-project.org/) is an open source tool which primary purpose is to share cyber threat intelligence. It is broadly used in the CSIRTs community in the EU and beyond. It can be used for many other activities in addition to share cyber threat intelligence. Therefore, this article takes a closer look at how MISP can support stakeholders mentioned in the NISD to better perform the tasks identified therein. Especially CSIRTs, OESs and DSPs are the stakeholders that could benefit the most from using MISP in the scope of the NISD. Member States and Single Point of Contacts could also use MISP for the performance of their tasks, especially as a tool to receive and share NIS events and notify NIS incidents.
 
-- [Document in Markdown format](./NISD/how-misp-enables-NISD-stakeholders-perform-key-activities.md) [PDF](./NISD/how-misp-enables-NISD-stakeholders-perform-key-activities.pdf)
+- [Document in Markdown format](./NISD/how-misp-enables-NISD-stakeholders-perform-key-activities.md) | [PDF](./NISD/how-misp-enables-NISD-stakeholders-perform-key-activities.pdf)
 
 # Guidelines to setting up an information sharing community such as an ISAC or ISAO
 
@@ -61,7 +61,7 @@ Relevant research has already been conducted and published by organisations such
 
 This guideline is focused around the [Open Source Threat Intelligence Sharing platform (MISP)](https://www.misp-project.org/) used in support on information sharing activities.
 
-- [Document in Markdown format](https://github.com/MISP/misp-compliance/blob/master/setting-up-ISACs/guidelines_to_set-up_an_ISAC.md) [PDF](https://www.x-isac.org/assets/images/guidelines_to_set-up_an_ISAC.pdf)
+- [Document in Markdown format](https://github.com/MISP/misp-compliance/blob/master/setting-up-ISACs/guidelines_to_set-up_an_ISAC.md) | [PDF](https://www.x-isac.org/assets/images/guidelines_to_set-up_an_ISAC.pdf)
 
 # Contributing
 
