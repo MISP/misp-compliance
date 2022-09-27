@@ -198,7 +198,7 @@ A cross-sectorial information sharing community can bring the following benefits
 
 Being a CSIRT, the more sectors you involve in your information sharing community, the more entities you can help increase their information sharing practices, and therefore, increasing the sharing maturity across sectors. Indeed, CSIRTs are generally speaking ahead when it comes to information sharing maturity.
 
-### 2.3. Elaborate your business model
+### 2.3. Elaborate on your business model
 
 #### 2.3.1. Choose your funding model
 
@@ -242,6 +242,8 @@ Members may share information following the Traffic Light Protocol (TLP) and/or 
 
 REN ISAC has defined a [sensitivity marking including restriction in dissemination](https://www.ren-isac.net/membership/MembershipDocs/REN-ISAC_Info_Sharing_Policy.pdf), which also includes disclosure standards and breach reactions. E-ISAC has drafted those markings as well in their [information sharing policy](https://www.eisac.com/cartella/Asset/00006344/TLP_WHITE_E_ISAC_Guidance_4_2017.pdf?parent=64210).
 
+Additionally, transposing other, existing information marking schemes (such as national classification levels), as required by the given sharing community are encouraged as long as a common understanding by the community members is expected and communicated.
+
 #### 3.1.4. Identify whether a part of information shared is mandatory (e.g. regulatory) and/or voluntary sharing
 
 In the EU, mandatory information sharing requirements may come from the NIS Directive requirements as well as Telecom, GDPR, PSD2 and national or local regulatory requirements. An information sharing community can share uniformly mandatory and voluntary information as long as the information is properly contextualised.
@@ -254,7 +256,7 @@ For example, a member of the information sharing community can ask the informati
 
 Another possibility to ensure members' anonymity when sharing is to provide the member intending to share information anonymous access. Usually the user receiving the delegation belongs to the entity operating the sharing community such as a CSIRT.
 
-#### 3.1.6. Decide whether you allow sub-communities and how you manage it
+#### 3.1.6. Decide whether you allow for the existence of sub-communities and how you manage it
 
 Based on the experience gained with information sharing communities, smaller subsets of members often form individual information sharing communities. For example within a national private-sector sharing community, specific communities related to financial institutions can form.
 
@@ -267,6 +269,8 @@ The MISP software has different channels detailed below to enable sub-communitie
 * The [sharing groups feature](https://www.circl.lu/doc/misp/sharing/#sharing-groups) allows members of a sub-community to share exclusively between each other.
 
 If you are a CSIRT running a national community, consider bootstrapping these sub-communities in order to assist them when they are starting out. Organisations can of course self-organise, but CSIRTs or the operator(s) of the sharing community are the ones with the expertise to get a sub-community started, for example by creating guidelines on what should be shared inside or outside of the given sub-community.
+
+When bootstrapping sub-communities on behalf of a given sub-community as a CSIRT or an operator of the broader sharing community, ensure that the maintenance of the lifecycle for the created community is ensured, especially for changes in organisational membership. This can either be achieved by implementing policies on enrollment and disenrollment or by promoting trusted members of the sub-community to be able to self-organise.
 
 ### 3.2. Establish partnership and support
 
@@ -290,6 +294,7 @@ For example, information exchanged can come from:
 * Aggregation of automated collection (sandboxing, honeypots, spamtraps, sensors)
 * Situational awareness tools to monitor trends and adversary TTPs within my sector/geographical region
 * Collection of information collected within incident response and analysis
+* Forwarding of shared/procured intelligence, as long as redistribution to the community is authorised
 
 
 #### 4.1.2. Encourage your members to start sharing
@@ -300,6 +305,7 @@ For example, information exchanged can come from:
 * How should it be contextualised?
 * What do you consider as useful information?
 * What tools did you use to reach your conclusions?
+* How can members make use of the shared information?
 
 In order to convert passive members of your information sharing community into active ones, the following key points have proved to be useful:
 
@@ -363,11 +369,15 @@ In addition to taxonomies, another classification system exists in MISP called *
 
 Consider improving the default galaxies’ or taxonomies’ libraries or contributing your own. Contribution to galaxies is simplified thanks to the use, as with taxonomies, of a simple JSON format. If you create a new set of Galaxies, you can share it back to the community by creating a pull request on the [MISP galaxy Github](https://github.com/MISP/misp-galaxy) and/or [MISP taxonomy Github](https://github.com/MISP/misp-taxonomies).
 
-Galaxies can also be used to **share specific information to a limited set of members** by creating private galaxies and share the galaxy’s JSON file only with those members. That way, the members that do not have access to the galaxy definitions will not be able to link the information shared with the private galaxy. It is often the case when sharing information on attribution for example.
+Galaxies can also be used to **share specific information to a limited set of members**. This can be achieved in multiple ways:
 
-#### 4.1.8. Handle false-positive
+* By creating private galaxies and share the galaxy’s JSON file only with those members. That way, the members that do not have access to the galaxy definitions will not be able to link the information shared with the private galaxy. It is often the case when sharing information on attribution for example.
+* By creating ad-hoc galaxy clusters within MISP directly and relying on MISP's sharing model to distribute it to the desired communties or sub-communities.
+* Creating alternate perspectives on existing galaxy clusters by forking them and offering counter-perspectives to shared galaxies.
 
-You might often fall into the trap of discarding seemingly "junk" data. Besides volume limitations, which are a valid reason, the fear of false-positives is the most common reason for discarding data. Our recommendation is to be lenient when considering what to keep but to be strict when feeding detection or protection tools. MISP allows for the filtering of relevant data when feeding protection tools. For example, you can use the IDS toggle, by clicking ["For Intrusion Detection System" when creating an attribute](https://www.circl.lu/doc/misp/using-the-system/#add-attribute). You can also use different sets of taxonomies to indicate relevance of the data regarding protection and/or detection of threats. It is therefore recommended to **use MISP's features to eliminate obvious false-positives instead of limiting the data-set** to the most relevant sets.
+#### 4.1.8. Handle false-positives
+
+You might often fall into the trap of discarding seemingly "junk" data. Besides volume limitations, which are a valid reason, the fear of false-positives is the most common reason for discarding data. Our recommendation is to be lenient when considering what to keep but to be strict when feeding detection or protection tools. MISP allows for the filtering of relevant data when on information retrieval, when for example feeding protective tools. For example, you can use the IDS toggle, by clicking ["For Intrusion Detection System" when creating an attribute](https://www.circl.lu/doc/misp/using-the-system/#add-attribute). You can also use different sets of taxonomies to indicate relevance of the data regarding protection and/or detection of threats. The combination of all of these datya-points can also be used to generate scoring for the information that can be used to automate the decision process. It is therefore recommended to **use MISP's features to eliminate obvious false-positives instead of limiting the data-set** to the most relevant sets.
 
 The reason behind this is that seemingly junk data, as perceived by some entities, proved to be **critical to other** entities. Analysts will also often be interested in the modus operandi of threat actors over long periods of time and even cleaned up infected hosts might **become interesting again** (embedded in code, recurring reuse).
 
@@ -397,6 +407,7 @@ Your information sharing community can share information either through a MISP i
 
 * Using a MISP instance hosted by a CSIRT. Small information sharing communities may ask a CSIRT to create a sharing group on the CISRT’s instance for example if they want to avoid the burden of creating and hosting a MISP instance themselves.
 * Hosting your own instance and connecting to a CSIRT's MISP instance. This allows a flexible scheme especially if your information sharing communities provide additional services.
+* It is also common to mix and match the above options, with some members electing to use a hosted instance, whilst others run their own, connected instances.
 
 #### 4.2.3. Setup Face-to-face meetings to foster trust
 
@@ -419,6 +430,8 @@ Security requirements can be applied to:
 * data at rest, e.g. data in the information sharing community's centralised database (e.g. MISP database) and in each member’s storage facilities.
 
 Information sharing communities can for example enforce PGP communication when emails are used, encryption of traffic and other security controls.
+
+Additionally, MISP communities can choose to restrict sharing of more critical information with additional cryptographic signing requirements, to tamper-proof the data in broader communities.
 
 Some sharing communities may also **require their members to have their own MISP instance** synchronised with the one of the sharing community. This increases privacy as the operator of the MISP instance of the sharing community does not have access to each member's queries and searches. Doing so also improves the performance of the central MISP instance of the community.
 
