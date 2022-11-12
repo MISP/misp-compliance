@@ -16,6 +16,12 @@ Information sharing communities are enabled using tools like MISP. As a Computer
 
 - [Document in Markdown format](./GDPR/information_sharing_and_cooperation_gdpr.md) | [PDF](./GDPR/information_sharing_and_cooperation_gdpr.pdf)
 
+## Information sharing enabled by DORA
+
+The Digital Operational Resilience Act (DORA) is a new EU legislation aiming at improving the operational and cyber resilience of the Union's financial sector. Set to enter into application in early 2025, DORA will apply to a very wide range of entities, which will benefit from new provisions on information sharing. Those provisions will reinforce the legal grounds for information sharing arrangements on cyber threat information and intelligence.
+
+- [Document in Markdown format](./DORA/information_sharing_dora.md)
+
 ## MISP as supporting platform for sharing information, following ISO/IEC 27010:2015
 
 Threat intelligence sharing comes with its own caveats and presents a few challenges. For example, organisations may end up with raw, unevaluated data, which adds an extra burden to the security team of the organisations by increasing the number of events and alerts rather than decreasing them. Moreover, some security vendors loath to share information to avoid losing the competitive edge.
