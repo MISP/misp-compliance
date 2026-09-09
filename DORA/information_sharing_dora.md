@@ -29,7 +29,28 @@ DORA will apply to a very wide range of entities, including non-financial sector
 
 ## DORA provisions on information sharing
 
-EU co-legislators have dedicated a chapter of DORA to information sharing in an effort to **reinforce the legal grounds** for information sharing arrangements on cyber threat information and intelligence. Under DORA's Art. 45:
+Information sharing also occur between financial entities and the DORA national competent authority via the mandatory reporting of ICT-related incidents and the volontary notification of significant cyber threats, under DORA's Art. 19:
+
+**Art. 19(1) - Reporting of major ICT-related incidents**
+
+> Financial entities shall report major ICT-related incidents to the relevant competent authority as referred to in Article 46 in accordance with paragraph 4 of this Article.
+
+> Credit institutions classified as significant, in accordance with Article 6(4) of Regulation (EU) No 1024/2013, shall report major ICT-related incidents to the relevant national competent authority designated in accordance with Article 4 of Directive 2013/36/EU, which shall immediately transmit that report to the ECB.
+
+> For the purpose of the first subparagraph, financial entities shall produce, after collecting and analysing all relevant information, the initial notification and reports referred to in paragraph 4 of this Article using the templates referred to in Article 20 and submit them to the competent authority. In the event that a technical impossibility prevents the submission of the initial notification using the template, financial entities shall notify the competent authority about it via alternative means.
+
+> The initial notification and reports referred to in paragraph 4 shall include all information necessary for the competent authority to determine the significance of the major ICT-related incident and assess possible cross-border impacts.
+
+**Art. 19(2) - Voluntary notification of significant cyber threats**
+
+> Financial entities may, on a voluntary basis, notify significant cyber threats to the relevant competent authority when they deem the threat to be of relevance to the financial system, service users or clients. The relevant competent authority may provide such information to other relevant authorities referred to in paragraph 6.
+
+> Credit institutions classified as significant, in accordance with Article 6(4) of Regulation (EU) No 1024/2013, may, on a voluntary basis, notify significant cyber threats to relevant national competent authority, designated in accordance with Article 4 of Directive 2013/36/EU, which shall immediately transmit the notification to the ECB.
+
+  
+
+
+EU co-legislators have also dedicated a chapter of DORA to information sharing in an effort to **reinforce the legal grounds** for information sharing arrangements on cyber threat information and intelligence. Under DORA's Art. 45:
 
 **Art. 45(1) - Exchange of cyber threat information and intelligence**
 
@@ -53,6 +74,31 @@ Financial entities shall notify competent authorities of their participation in 
 ## Relationship between DORA and the NIS2 Directive
 
 As regards the interaction of DORA with the Network and Information Security (NIS) Directive (including its revision whose final text was published simultaneously to DORA's), financial entities will have full clarity on the different rules on digital operational resilience they need to comply with, in particular for those financial entities holding several authorisations and operating in different markets within the EU. The NIS directive continues to apply. DORA builds on the NIS Directive and addresses possible overlaps via a _lex specialis_ exemption.
+
+Following DORA provisions highlight the information sharing interactions with NIS2
+
+**Art. 19(1) - Reporting of major ICT-related incidents**
+
+> ...
+> Without prejudice to the reporting pursuant to the first subparagraph by the financial entity to the relevant competent authority, **Member States may additionally determine** that some or all financial entities shall also provide the initial notification and each report referred to in paragraph 4 of this Article using the templates referred to in Article 20 to the competent authorities or the computer security incident response teams (CSIRTs) designated or established in accordance with Directive (EU) 2022/2555.
+
+The Member State will determine, in collaboration with the DORA national competent authority, if the financial entities initial notification for major ICT-related incidents and subsequent reports will also initialy be shared directly by the financial entities to the NIS 2 national competent authority or NIS designated CSIRT.
+
+**Art. 19(2) - Voluntary notification of significant cyber threats**
+
+> ...
+> **Member States may determine** that those financial entities that on a voluntary basis notify in accordance with the first subparagraph may also transmit that notification to the CSIRTs designated or established in accordance with Directive (EU) 2022/2555.
+
+The Member State will determine, in collaboration with the DORA national competent authority, if the financial entities voluntary notification of significant cyber threats will also be shared to the  NIS 2 national competent authority or NIS designated CSIRT.
+
+**Art. 19(6) - Reporting of major ICT-related incidents**
+
+> Upon receipt of the initial notification and of each report referred to in paragraph 4, the competent authority shall, in a timely manner, provide details of the major ICT-related incident to the following recipients based, as applicable, on their respective competences:
+> the competent authorities, single points of contact or CSIRTs designated or established in accordance with Directive (EU) 2022/2555;
+
+If transposition in CSSF Circular of provision 19(1) doesn't require from the financial entities to also report their major ICT-related incidents directly to the NIS 2 national competent authority or NIS designated CSIRT, DORA national competent authority will have to provide *in a timely manner* informations on those major ICT-related incidents directly to the NIS 2 national competent authority or NIS designated CSIRT.
+
+DORA provisions on information sharing are specific to the financial sector, defining also an obligation of information sharing outside of the financial sector. NIS 2 is in charge of information sharing at the national, cross-sectoral levels and european level.
 
 ## References
 
